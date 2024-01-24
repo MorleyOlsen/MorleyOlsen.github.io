@@ -76,12 +76,11 @@ work:
     company_logo: ''
     date_start: 2022-12-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
       - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
-    summary: |
       Achievements include:
       - A Chinese software copyright(基于图像目标检测技术的大米品质检测软件V1.0).
   
@@ -96,7 +95,6 @@ work:
       - Retrieving agricultural machinery using fuzzy queries.
       - Calculation of farmland area using Monte Carlo and triangular sectioning.
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
-    summary: |
       Achievements include:
       - A Chinese software copyright(农机作业数据管理服务系统V1.0).
    
@@ -110,7 +108,6 @@ work:
       Responsibilities include:
       - Realization of framing, routing, and animation of web pages(self-learned).
       - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
-    summary: |
       Achievements include:
       - An existing website powered by GitLab(https://2023.igem.wiki/cau-china/).
       - Gold medal & best basic part nomination in iGEM competition.
