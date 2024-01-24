@@ -221,15 +221,7 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
-  - title: The Sixth Puyi Prize National Student Translation Competition English-Chinese Translation Group Preliminary Competition
-    url: ''
-    date: '2022-06-01'
-    awarder: Third-prize, national level
-    icon: 💭
-    summary: |
-      Competition's Chinese name: 第六届普译奖全国大学生翻译比赛英译汉组初赛
 
-  
   - title: "Challenge Cup" Capital University Students' Extracurricular Academic and Technological Works Competition "Qingzhen Beijing Suburbs" Rural Revitalization Special Competition
     url: ''
     date: '2023-06-01'
