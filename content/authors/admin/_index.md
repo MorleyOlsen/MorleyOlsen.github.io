@@ -216,22 +216,7 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
-  - title: "Challenge Cup" Capital University Students' Extracurricular Academic and Technological Works Competition "Qingzhen Beijing Suburbs" Rural Revitalization Special Competition
-    url: ''
-    date: '2023-06-01'
-    awarder: Special-prize, provincial level
-    icon: 💭
-    summary: |
-      Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青振京郊”乡村振兴专项赛
 
-      Project name: "Yong" bonding friendship, "joy" in it - Yongledian town characteristics of the road to development(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
-  - title: Beijing Math Contest for College Students
-    url: ''
-    date: '2022-11-01'
-    awarder: Third-prize, provincial level
-    icon: 💭
-    summary: |
-      Competition's Chinese name: 北京市大学生数学竞赛
 ---
 
 I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities. Additionally, I record personal learning steps through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/), where I am also known as MorleyOlsen.
