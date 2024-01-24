@@ -92,7 +92,17 @@ work:
       - Retrieving agricultural machinery using fuzzy queries.
       - Calculation of farmland area using Monte Carlo and triangular sectioning.
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
-  
+  - position: My Silium Website
+    company_name: Participant
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-11-01
+    summary: |
+      Responsibilities include:
+      - Realization of framing, routing, and animation of web pages(self-learned).
+      - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
