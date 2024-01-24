@@ -69,48 +69,7 @@ education:
       - Interface Technology (A)
       - to be continued...
 
-work:
-  - position: An Intelligent Seed Selection Research Based on Machine Vision
-    company_name: Leader
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-12-01
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
-      - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
-      - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
-  - position: A Management and Service System for Data on Agricultural Machinery Operations
-    company_name: Participant
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-06-01
-    date_end: 2023-07-01
-    summary: |
-      Responsibilities include:
-      - Retrieving agricultural machinery using fuzzy queries.
-      - Calculation of farmland area using Monte Carlo and triangular sectioning.
-      - Realization of shortest path planning by Floyd & Dijkstra algorithms.
-  - position: "My Silium" Website
-    company_name: Participant
-    company_url: 'https://2023.igem.wiki/cau-china/'
-    company_logo: ''
-    date_start: 2023-01-01
-    date_end: 2023-11-01
-    summary: |
-      Responsibilities include:
-      - Realization of framing, routing, and animation of web pages(self-learned).
-      - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
-  - position: Primary-Auxiliary Memory Mapping Simulator
-    company_name: Participant
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-12-01
-    date_end: 2024-01-01
-    summary: |
-      Responsibilities include:
-      - Designing address mapping and data access between different storage structures.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
