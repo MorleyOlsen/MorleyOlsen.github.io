@@ -216,6 +216,16 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
+  - title: "Challenge Cup" Capital University Students' Extracurricular Academic and Technological Works Competition "Qingzhen Beijing Suburbs" Rural Revitalization Special Competition
+    url: ''
+    date: '2023-06-01'
+    awarder: Special-prize, provincial level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青振京郊”乡村振兴专项赛
+
+      Project name: "Yong" bonding friendship, "joy" in it - Yongledian town characteristics of the road to development(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
+
 
 ---
 
