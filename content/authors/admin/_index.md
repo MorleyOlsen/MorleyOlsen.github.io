@@ -168,21 +168,20 @@ awards:
     url: ''
     date: '2022-06-01'
     awarder: First-prize, national level
-    icon: ''
+    icon: 💭
     summary: |
-    Project details: Contest by examinations.
+      Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
   # provincial level
   
   # school level
   - title: The Third China Agricultural University "Xingnong Cup" Innovation and Entrepreneurship Competition
     url: ''
-    date: '2022-03-01'
+    date: '2022-08-20'
     awarder: Third-prize, school level
-    icon: ''
+    icon: 💭
     summary: |
-    Project details:
-    - English Name: CAU Rice Man - a service-oriented campus public platform
-    - Chinese Name: 农带干饭人——服务型校园公众平台
+      Competition's Chinese name: 第三届中国农业大学“兴农杯”创新创业大赛
+      Project name: CAU Rice Man - a service-oriented campus public platform(农带干饭人——服务型校园公众平台)
 ---
 
 I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities. Additionally, I record personal learning steps through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/), where I am also known as MorleyOlsen.
