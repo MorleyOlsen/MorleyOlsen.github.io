@@ -94,7 +94,7 @@ work:
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
   - position: "My Silium" Website
     company_name: Participant
-    company_url: 'https://2023.igem.wiki/cau-china/'
+    company_url: https://2023.igem.wiki/cau-china/
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2023-11-01
