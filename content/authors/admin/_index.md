@@ -229,17 +229,6 @@ awards:
     summary: |
       Competition's Chinese name: 第六届普译奖全国大学生翻译比赛英译汉组初赛
 
-
-  # provincial level
-  - title: "Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students in Capital City "Youth Gathering and Wonderful Ideas" Black Technology Special Competition
-    url: ''
-    date: '2023-06-01'
-    awarder: First-prize, provincial level
-    icon: 💭
-    summary: |
-      Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青聚奇思”黑科技专项赛
-
-      Project name: Study of aqueous zinc ion batteries based on vanadium oxide thin films(基于氧化钒薄膜的水系锌离子电池研究)
   
   - title: "Challenge Cup" Capital University Students' Extracurricular Academic and Technological Works Competition "Qingzhen Beijing Suburbs" Rural Revitalization Special Competition
     url: ''
