@@ -82,7 +82,7 @@ work:
       - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
       Achievements include:
-      - A Chinese software copyright(基于图像目标检测技术的大米品质检测软件V1.0).
+      - A Chinese software copyright.
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant
     company_url: ''
@@ -95,7 +95,7 @@ work:
       - Calculation of farmland area using Monte Carlo and triangular sectioning.
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
       Achievements include:
-      - A Chinese software copyright(农机作业数据管理服务系统V1.0).
+      - A Chinese software copyright.
   - position: "My Silium" Website
     company_name: Participant
     company_url: ''
