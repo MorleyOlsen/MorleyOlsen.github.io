@@ -83,7 +83,6 @@ work:
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
       Achievements include:
       - A Chinese software copyright(基于图像目标检测技术的大米品质检测软件V1.0).
-  
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant
     company_url: ''
@@ -97,7 +96,6 @@ work:
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
       Achievements include:
       - A Chinese software copyright(农机作业数据管理服务系统V1.0).
-   
   - position: "My Silium" Website
     company_name: Participant
     company_url: ''
@@ -111,7 +109,6 @@ work:
       Achievements include:
       - An existing website powered by GitLab(https://2023.igem.wiki/cau-china/).
       - Gold medal & best basic part nomination in iGEM competition.
-
   - position: Primary-Auxiliary Memory Mapping Simulator
     company_name: Participant
     company_url: ''
