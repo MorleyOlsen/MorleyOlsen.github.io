@@ -39,7 +39,7 @@ education:
     date_start: 2020-09-01
     date_end: 2025-07-01
     summary: |
-      GPA: 3.87/4.0
+      GPA: 3.86/4.0
 
       Rank: 4/61
       
@@ -81,8 +81,6 @@ work:
       - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
       - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
-      Achievements include:
-      - A Chinese software copyright.
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant
     company_url: ''
@@ -94,11 +92,9 @@ work:
       - Retrieving agricultural machinery using fuzzy queries.
       - Calculation of farmland area using Monte Carlo and triangular sectioning.
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
-      Achievements include:
-      - A Chinese software copyright.
   - position: "My Silium" Website
     company_name: Participant
-    company_url: ''
+    company_url: 'https://2023.igem.wiki/cau-china/'
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2023-11-01
@@ -106,9 +102,6 @@ work:
       Responsibilities include:
       - Realization of framing, routing, and animation of web pages(self-learned).
       - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
-      Achievements include:
-      - An existing website powered by GitLab(https://2023.igem.wiki/cau-china/).
-      - Gold medal & best basic part nomination in iGEM competition.
   - position: Primary-Auxiliary Memory Mapping Simulator
     company_name: Participant
     company_url: ''
