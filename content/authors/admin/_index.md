@@ -81,6 +81,19 @@ work:
       - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
       - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
+  - position: A Management and Service System for Data on Agricultural Machinery Operations
+    company_name: Participant
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2023-07-01
+    summary: |
+      Responsibilities include:
+      - Retrieving agricultural machinery using fuzzy queries.
+      - Calculation of farmland area using Monte Carlo and triangular sectioning.
+      - Realization of shortest path planning by Floyd & Dijkstra algorithms.
+   
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
