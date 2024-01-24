@@ -226,7 +226,7 @@ awards:
       Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青振京郊”乡村振兴专项赛
 
       Project name: "Yong" bonding friendship, "joy" in it - Yongledian town characteristics of the road to development(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
-  - title: "Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students in Capital City "Youngsters Gather to Create Wonderful Ideas" Black Technology Special Competition
+  - title: Challenge Cup Extracurricular Academic and Technological Works Competition for College Students in Capital City "Youngsters Gather to Create Wonderful Ideas" Black Technology Special Competition
     url: ''
     date: '2023-06-01'
     awarder: First-prize, provincial level
