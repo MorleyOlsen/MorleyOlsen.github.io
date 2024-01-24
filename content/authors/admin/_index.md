@@ -42,8 +42,11 @@ education:
       GPA: 3.86/4.0
 
       Rank: 4/61
+      English level:
+      - CET 4: 658
+      - CET 6: 621
       
-      Outstanding Major Courses included:
+      Outstanding major courses included:
       - [first grade]
       - C Programming Language (A+)
       - Advanced Math (A- in part 1, A in part 2)
@@ -111,6 +114,7 @@ work:
     summary: |
       Responsibilities include:
       - Designing address mapping and data access between different storage structures.
+      - Implementation of sequential flow of data and address access.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -185,4 +189,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities. Additionally, I record personal learning steps through CSDN(https://blog.csdn.net/m0_65787507) and Leetcode(https://leetcode.cn/u/frosty-6ateskej/), where I am also known as MorleyOlsen.
+I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities. Additionally, I record personal learning steps through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/), where I am also known as MorleyOlsen.
