@@ -165,7 +165,7 @@ awards:
   # national level
   - title: The Sixth National Collegiate Business English Contest Preliminary Competition
     url: ''
-    date: '2022-06'
+    date: '2022-06-01'
     awarder: First-prize, national level
     icon: ''
     summary: |
@@ -175,7 +175,7 @@ awards:
   # school level
   - title: The Third China Agricultural University "Xingnong Cup" Innovation and Entrepreneurship Competition
     url: ''
-    date: '2022-03'
+    date: '2022-03-01'
     awarder: Third-prize, school level
     icon: ''
     summary: |
