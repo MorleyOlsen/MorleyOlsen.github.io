@@ -71,16 +71,19 @@ education:
 
 work:
   - position: An Intelligent Seed Selection Research Based on Machine Vision
-    company_name: Host
+    company_name: Leader
     company_url: ''
     company_logo: ''
     date_start: 2022-12-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - improving YOLOv5(a target detection model) to achieve a real-time mechanism for classify rice.
+      - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
       - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
+    summary: |
+      Achievements include:
+      - A Chinese software copyright(基于图像目标检测技术的大米品质检测软件V1.0).
   
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant
@@ -93,6 +96,34 @@ work:
       - Retrieving agricultural machinery using fuzzy queries.
       - Calculation of farmland area using Monte Carlo and triangular sectioning.
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
+    summary: |
+      Achievements include:
+      - A Chinese software copyright(农机作业数据管理服务系统V1.0).
+      
+  - position: "My Silium" Website
+    company_name: Participant
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-11-01
+    summary: |
+      Responsibilities include:
+      - Realization of framing, routing, and animation of web pages(self-learned).
+      - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
+    summary: |
+      Achievements include:
+      - An existing website powered by GitLab(https://2023.igem.wiki/cau-china/).
+      - Gold medal & best basic part nomination in iGEM competition.
+
+  - position: Primary-Auxiliary Memory Mapping Simulator
+    company_name: Participant
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-12-01
+    date_end: 2024-01-01
+    summary: |
+      Responsibilities include:
+      - Designing address mapping and data access between different storage structures.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -101,15 +132,15 @@ skills:
     items:
       - name: C/C++
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Python
         description: ''
-        percent: 100
+        percent: 90
         icon: code-bracket
       - name: MySQL
         description: ''
-        percent: 40
+        percent: 70
         icon: code-bracket
   
   - name: Tools
@@ -127,6 +158,7 @@ skills:
       - name: Anaconda
         description: 'for deep learning models'
         percent: 100
+        icon: chart-bar
 
 languages:
   - name: English
@@ -166,4 +198,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities.
+I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities. Additionally, I record personal learning steps through CSDN(https://blog.csdn.net/m0_65787507) and Leetcode(https://leetcode.cn/u/frosty-6ateskej/), where I am also known as MorleyOlsen.
