@@ -242,6 +242,13 @@ awards:
       Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青聚奇思”黑科技专项赛
 
       Project name: Study of aqueous zinc ion batteries based on vanadium oxide thin films(基于氧化钒薄膜的水系锌离子电池研究)
+  - title: Beijing Math Contest for College Students
+    url: ''
+    date: '2022-11-01'
+    awarder: Third-prize, provincial level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: 北京市大学生数学竞赛
 
 ---
 
