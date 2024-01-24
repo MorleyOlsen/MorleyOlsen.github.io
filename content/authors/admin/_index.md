@@ -102,7 +102,15 @@ work:
       Responsibilities include:
       - Realization of framing, routing, and animation of web pages(self-learned).
       - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
-
+  - position: Primary-Auxiliary Memory Mapping Simulator
+    company_name: Participant
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-12-01
+    date_end: 2024-01-01
+    summary: |
+      Responsibilities include:
+      - Designing address mapping and data access between different storage structures.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
