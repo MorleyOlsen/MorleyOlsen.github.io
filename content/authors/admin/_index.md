@@ -99,7 +99,7 @@ work:
     summary: |
       Achievements include:
       - A Chinese software copyright(农机作业数据管理服务系统V1.0).
-      
+   
   - position: "My Silium" Website
     company_name: Participant
     company_url: ''
