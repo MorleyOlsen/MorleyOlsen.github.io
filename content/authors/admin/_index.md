@@ -69,7 +69,18 @@ education:
       - Interface Technology (A)
       - to be continued...
 
-
+work:
+  - position: An Intelligent Seed Selection Research Based on Machine Vision
+    company_name: Leader
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-12-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
+      - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
+      - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
