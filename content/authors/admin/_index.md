@@ -68,71 +68,71 @@ education:
       - Artificial Intelligence 1 (A+)
       - Interface Technology (A)
       - to be continued...
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: An Intelligent Seed Selection Research Based on Machine Vision
+    company_name: Host
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-12-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - improving YOLOv5(a target detection model) to achieve a real-time mechanism for classify rice.
+      - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
+      - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
+  
+  - position: A Management and Service System for Data on Agricultural Machinery Operations
+    company_name: Participant
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-01
+    date_end: 2023-07-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Retrieving agricultural machinery using fuzzy queries.
+      - Calculation of farmland area using Monte Carlo and triangular sectioning.
+      - Realization of shortest path planning by Floyd & Dijkstra algorithms.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: Python
+      - name: C/C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Python
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: MySQL
         description: ''
         percent: 40
-        icon: circle-stack
-  - name: Hobbies
+        icon: code-bracket
+  
+  - name: Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Markdown
+        description: 'usually written by Typora'
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: chart-bar
+      - name: Label-Studio
+        description: 'a platform for data pre-processing, used in object detection'
+        percent: 100
+        icon: chart-bar
+      - name: Anaconda
+        description: 'for deep learning models'
+        percent: 100
 
 languages:
   - name: English
+    percent: 80
+  - name: Chinese(Mandarin)
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
