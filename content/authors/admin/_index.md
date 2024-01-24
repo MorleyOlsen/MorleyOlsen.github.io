@@ -228,6 +228,9 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 第六届普译奖全国大学生翻译比赛英译汉组初赛
+
+
+  # provincial level
   - title: "Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students in Capital City "Youth Gathering and Wonderful Ideas" Black Technology Special Competition
     url: ''
     date: '2023-06-01'
