@@ -173,7 +173,65 @@ awards:
       Competition's Chinese name: 国际基因工程机器大赛
 
       Project name: [My Silium](https://2023.igem.wiki/cau-china/)
+  # national level
+  - title: National Mathematics Contest for College Students
+    url: ''
+    date: '2023-11-01'
+    awarder: Third-prize, national level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: 全国大学生数学竞赛
+  - title: Preliminary Competition of the National English Reading Contest of the Foreign Studies Society-Guo Cai Cup
+    url: ''
+    date: '2023-10-01'
+    awarder: Special-prize, national level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “外研社·国才杯”全国英语阅读大赛初赛
+  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
+    url: ''
+    date: '2023-10-01'
+    awarder: First-prize, national level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
+  - title: National English Contest for College Students
+    url: ''
+    date: '2023-04-01'
+    awarder: Third-prize, national level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: 全国大学生英语竞赛
+  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
+    url: ''
+    date: '2022-10-01'
+    awarder: Second-prize, national level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
+  - title: The Sixth National Collegiate Business English Contest Preliminary Competition
+    url: ''
+    date: '2022-06-01'
+    awarder: First-prize, national level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
+  - title: "Challenge Cup" Capital University Students' Extracurricular Academic and Technological Works Competition "Qingzhen Beijing Suburbs" Rural Revitalization Special Competition
+    url: ''
+    date: '2023-06-01'
+    awarder: Special-prize, provincial level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青振京郊”乡村振兴专项赛
 
+      Project name: "Yong" bonding friendship, "joy" in it - Yongledian town characteristics of the road to development(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
+  - title: Beijing Math Contest for College Students
+    url: ''
+    date: '2022-11-01'
+    awarder: Third-prize, provincial level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: 北京市大学生数学竞赛
     
 ---
 
