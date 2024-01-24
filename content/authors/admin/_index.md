@@ -42,6 +42,7 @@ education:
       GPA: 3.86/4.0
 
       Rank: 4/61
+      
       English level:
       - CET 4: 658
       - CET 6: 621
