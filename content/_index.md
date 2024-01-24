@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'MorleyOlsen'
 date: 2023-10-24
 type: landing
 
@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Download Chinese Resume
         url: uploads/resume.pdf
     design:
       banner:
