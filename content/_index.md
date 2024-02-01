@@ -43,7 +43,7 @@ sections:
       title: Awards
       username: admin
   # scholarships
-  - block: awards
+  - block: titles
     content:
       title: Scholarships & Titles
       username: admin
