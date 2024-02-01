@@ -14,7 +14,7 @@ sections:
   - block: biography
     content:
       username: admin
-      # Show a call-to-action button under your biography? (optional)
+      # Show a call-to-action button under your biography? (optional)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
       button:
         text: Download Chinese Resume
         url: uploads/resume.pdf
@@ -40,6 +40,10 @@ sections:
   - block: awards
     content:
       title: Awards
+      username: admin
+  - block: awards
+    content:
+      title: Scholarships & Titles
       username: admin
   - block: languages
     content:
