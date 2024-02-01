@@ -21,7 +21,7 @@ role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Colloge of Information and Electronic Engineering, China Agricultural University
+  - name: Colloge of Information and Electrical Engineering, China Agricultural University
     url: http://ciee.cau.edu.cn/
 
 # Social network links
@@ -32,11 +32,20 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/MorleyOlsen
+    label: Github
 
 education:
-  - area: BSc Computer Science
-    institution: China Agricultural University
+  - area: Agronomy
+    institution: Colloge of Agronomy and Biotechnology, China Agricultural University
     date_start: 2020-09-01
+    date_end: 2021-08-01
+  - area: Mechanics
+    institution: Colloge of Engineering, China Agricultural University
+    date_start: 2021-09-01
+    date_end: 2022-02-01
+  - area: Computer Science(bachelor's degree)
+    institution: Colloge of Information and Electrical Engineering, China Agricultural University
+    date_start: 2022-03-01
     date_end: 2025-07-01
     summary: |
       GPA: 3.86/4.0
@@ -85,6 +94,9 @@ work:
       - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
       - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
+    summary: |
+      Achievements include:
+      - a Chinese software copyright.
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant
     company_url: ''
@@ -96,6 +108,9 @@ work:
       - Retrieving agricultural machinery using fuzzy queries.
       - Calculation of farmland area using Monte Carlo and triangular sectioning.
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
+    summary: |
+      Achievements include:
+      - a Chinese software copyright.
   - position: My Silium Website
     company_name: Participant
     company_url: ''
@@ -173,6 +188,7 @@ awards:
       Competition's Chinese name: 国际基因工程机器大赛
 
       Project name: [My Silium](https://2023.igem.wiki/cau-china/)
+
   # national level
   - title: National Mathematics Contest for College Students
     url: ''
@@ -181,20 +197,7 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 全国大学生数学竞赛
-  - title: Preliminary Competition of the National English Reading Contest of the Foreign Studies Society-Guo Cai Cup
-    url: ''
-    date: '2023-10-01'
-    awarder: Special-prize, national level
-    icon: 💭
-    summary: |
-      Competition's Chinese name: “外研社·国才杯”全国英语阅读大赛初赛
-  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
-    url: ''
-    date: '2023-10-01'
-    awarder: First-prize, national level
-    icon: 💭
-    summary: |
-      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
+
   - title: National English Contest for College Students
     url: ''
     date: '2023-04-01'
@@ -202,13 +205,7 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 全国大学生英语竞赛
-  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
-    url: ''
-    date: '2022-10-01'
-    awarder: Second-prize, national level
-    icon: 💭
-    summary: |
-      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
+
   - title: The Sixth National Collegiate Business English Contest Preliminary Competition
     url: ''
     date: '2022-06-01'
@@ -223,7 +220,18 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 第六届普译奖全国大学生翻译比赛英译汉组初赛
+
   # provincial level
+  - title: The Third National Agricultural Science Students' Innovation and Entrepreneurship Competition North China Region Repeat Competition Science and Technology Invention and Innovation Track
+    url: ''
+    date: '2023-12-01'
+    awarder: Second-prize, provincial level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: 第三届全国农科学子创新创业大赛华北片区复赛科技发明创新赛道
+
+      Project name: Genome - Wide Identificaation and Expression Analysis of ACTIN Family Genes in Sweet Potato and Its Two Diploid Relatives
+  
   - title: Challenge Cup Capital University Students' Extracurricular Academic and Technological Works Competition "Youngsters Help Beijing Suburbs" Rural Revitalization Special Competition
     url: ''
     date: '2023-06-01'
@@ -250,6 +258,20 @@ awards:
     summary: |
       Competition's Chinese name: 北京市大学生数学竞赛
   # school level
+  - title: Preliminary Competition of the National English Reading Contest of the Foreign Studies Society-Guo Cai Cup
+    url: ''
+    date: '2023-10-01'
+    awarder: Special-prize, school level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “外研社·国才杯”全国英语阅读大赛初赛
+  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
+    url: ''
+    date: '2023-10-01'
+    awarder: First-prize, school level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
   - title: China Agricultural University Innovation Design Competition for Agricultural Water Resources Engineering and Related Programs
     url: ''
     date: '2023-10-01'
@@ -335,7 +357,13 @@ awards:
       Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
     
       Project name: Genome-wide identification and expression analysis of the KTI family involved in plant resistance in sweetpotato and its two diploid relatives(甘薯及其两个二倍体亲缘关系中参与植物抗性的KTI家族的全基因组鉴定与表达分析)
-  
+  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
+    url: ''
+    date: '2022-10-01'
+    awarder: Second-prize, school level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
   - title: China Agricultural University University Physics Experiment Competition for Undergraduates
     url: ''
     date: '2022-10-01'
