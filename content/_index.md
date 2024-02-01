@@ -37,10 +37,12 @@ sections:
     content:
       title: Technical Skills
       username: admin
+  # competitions
   - block: awards
     content:
       title: Awards
       username: admin
+  # scholarships
   - block: awards
     content:
       title: Scholarships & Titles
