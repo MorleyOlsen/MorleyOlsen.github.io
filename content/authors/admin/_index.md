@@ -427,13 +427,7 @@ awards:
     
       Project name: CAU Rice Man - a service-oriented campus public platform(农带干饭人——服务型校园公众平台)
 
-# scholarships & titles
-awards:
-  # scholarships
-  - title: National Inspiration Scholarship
-    url: ''
-    date: ''
-    awarder: 2021, 2022, 2023
+
 
 ---
 
