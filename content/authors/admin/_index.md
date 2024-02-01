@@ -48,15 +48,15 @@ education:
     date_start: 2022-03-01
     date_end: 2025-07-01
     summary: |
-      GPA: 3.86/4.0
+      GPA: 3.86/4.0 (up to the first 4 semesters)
 
-      Rank: 4/61
+      Rank: 4/61 (up to the first 4 semesters)
       
       English level:
-      - CET 4: 658
-      - CET 6: 621
+      - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
+      - CET 6: 621/710 (221 in listening, 224 in reading, 176 in writing & translating)
       
-      Outstanding major courses included:
+      Outstanding major courses include:
       - [first grade]
       - C Programming Language (A+)
       - Advanced Math (A- in part 1, A in part 2)
@@ -81,6 +81,14 @@ education:
       - Artificial Intelligence 1 (A+)
       - Interface Technology (A)
       - to be continued...
+
+      Scholarships and titles include:
+      - National Inspiration Scholarship (2021, 2022, 2023)
+      - "Three Good Student" of school level (2022, 2023)
+      - Xizhi Scholarship (2022, 2023) (comprehensive quality assessment top 1 of class)
+      - Academic Second Class Scholarship (2022, 2023) (GPA top 10% of major)
+      - Cultural and Sports Excellence Scholarship (2022, 2023)
+      - Lenovo Smart Agriculture Talent Scholarship (2023) (agricultural contributions top 10 of college)
 
 work:
   - position: An Intelligent Seed Selection Research Based on Machine Vision
