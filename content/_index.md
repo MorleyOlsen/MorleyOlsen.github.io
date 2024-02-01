@@ -42,11 +42,6 @@ sections:
     content:
       title: Awards
       username: admin
-  # scholarships
-  - block: titles
-    content:
-      title: Scholarships & Titles
-      username: admin
   - block: languages
     content:
       title: Languages
