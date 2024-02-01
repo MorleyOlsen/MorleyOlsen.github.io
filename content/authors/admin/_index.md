@@ -177,10 +177,6 @@ languages:
     percent: 80
   - name: Chinese(Mandarin)
     percent: 100
-# Titles.
-titles:
-  # scholarships
-  - title: National Inspiration Scholarship
 
 # Awards.
 #   Add/remove as many awards below as you like.
