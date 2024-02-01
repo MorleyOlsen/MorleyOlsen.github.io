@@ -36,15 +36,15 @@ profiles:
 
 education:
   - area: Agronomy
-    institution: Colloge of Agronomy and Biotechnology, China Agricultural University
+    institution: College of Agronomy and Biotechnology, China Agricultural University
     date_start: 2020-09-01
     date_end: 2021-08-01
   - area: Mechanics
-    institution: Colloge of Engineering, China Agricultural University
+    institution: College of Engineering, China Agricultural University
     date_start: 2021-09-01
     date_end: 2022-02-01
   - area: Computer Science(bachelor's degree)
-    institution: Colloge of Information and Electrical Engineering, China Agricultural University
+    institution: College of Information and Electrical Engineering, China Agricultural University
     date_start: 2022-03-01
     date_end: 2025-07-01
     summary: |
@@ -94,7 +94,7 @@ work:
       - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
       - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
       - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
-    summary: |
+   
       Achievements include:
       - a Chinese software copyright.
   - position: A Management and Service System for Data on Agricultural Machinery Operations
@@ -108,7 +108,7 @@ work:
       - Retrieving agricultural machinery using fuzzy queries.
       - Calculation of farmland area using Monte Carlo and triangular sectioning.
       - Realization of shortest path planning by Floyd & Dijkstra algorithms.
-    summary: |
+
       Achievements include:
       - a Chinese software copyright.
   - position: My Silium Website
@@ -121,6 +121,11 @@ work:
       Responsibilities include:
       - Realization of framing, routing, and animation of web pages(self-learned).
       - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
+
+      Achievements include:
+      - an existing website(available at https://2023.igem.wiki/cau-china/).
+      - a gold medal & best new basic part nomination(undergraduate track) in iGEM.
+      
   - position: Primary-Auxiliary Memory Mapping Simulator
     company_name: Participant
     company_url: ''
