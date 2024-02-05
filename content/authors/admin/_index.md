@@ -283,6 +283,14 @@ awards:
       Competition's Chinese name: 北京市大学生数学竞赛
     
   # school level
+  - title: China Agricultural University Programming Contest
+    url: ''
+    date: '2024-01-01'
+    awarder: Third-prize, school level
+    icon: 💭
+    summary: |
+      Competition's Chinese name: 中国农业大学程序设计大赛
+  
   - title: Preliminary Competition of the National English Reading Contest of the Foreign Studies Society - Guo Cai Cup
     url: ''
     date: '2023-10-01'
