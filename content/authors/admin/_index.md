@@ -47,6 +47,9 @@ education:
     institution: College of Information and Electrical Engineering, China Agricultural University
     date_start: 2022-03-01
     date_end: 2025-07-01
+    button:
+        text: 'GPA Transcript'
+        url: '/static/uploads/resume.pdf'
     summary: |
       GPA: 3.86/4.0 (up to the first 4 semesters)
 
@@ -81,10 +84,6 @@ education:
       - Artificial Intelligence 1 (A+)
       - Interface Technology (A)
       - to be continued...
-
-      button:
-        text: 'GPA Transcript'
-        url: '/static/uploads/resume.pdf'
 
       Scholarships and titles include:
       - National Inspiration Scholarship (2021, 2022, 2023)
