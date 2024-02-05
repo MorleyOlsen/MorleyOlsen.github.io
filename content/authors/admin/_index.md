@@ -48,8 +48,8 @@ education:
     date_start: 2022-03-01
     date_end: 2025-07-01
     button:
-        text: 'GPA Transcript'
-        url: '/static/uploads/resume.pdf'
+        text: 'GPA Transcript(English version)'
+        url: '/uploads/transcript.pdf'
     summary: |
       GPA: 3.86/4.0 (up to the first 4 semesters)
 
