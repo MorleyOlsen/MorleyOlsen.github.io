@@ -200,7 +200,7 @@ awards:
     url: ''
     date: '2023-11-01'
     awarder: Gold medal & Best basic part nomination, global level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: 国际基因工程机器大赛
 
@@ -213,7 +213,7 @@ awards:
     url: ''
     date: '2023-11-01'
     awarder: Third-prize, national level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: 全国大学生数学竞赛
 
@@ -221,7 +221,7 @@ awards:
     url: ''
     date: '2023-04-01'
     awarder: Third-prize, national level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: 全国大学生英语竞赛
 
@@ -229,7 +229,7 @@ awards:
     url: ''
     date: '2022-06-01'
     awarder: First-prize, national level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
     
@@ -237,7 +237,7 @@ awards:
     url: ''
     date: '2022-06-01'
     awarder: Third-prize, national level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: 第六届普译奖全国大学生翻译比赛英译汉组初赛
 
@@ -246,7 +246,7 @@ awards:
     url: ''
     date: '2023-12-01'
     awarder: Second-prize, provincial level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: 第三届全国农科学子创新创业大赛华北片区复赛科技发明创新赛道
 
@@ -258,7 +258,7 @@ awards:
     url: ''
     date: '2023-06-01'
     awarder: Special-prize, provincial level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青振京郊”乡村振兴专项赛
 
@@ -268,7 +268,7 @@ awards:
     url: ''
     date: '2023-06-01'
     awarder: First-prize, provincial level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青聚奇思”黑科技专项赛
 
@@ -278,7 +278,7 @@ awards:
     url: ''
     date: '2022-11-01'
     awarder: Third-prize, provincial level
-    icon: 💭
+    icon: circle-stack
     summary: |
       Competition's Chinese name: 北京市大学生数学竞赛
     
