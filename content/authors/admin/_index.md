@@ -82,6 +82,10 @@ education:
       - Interface Technology (A)
       - to be continued...
 
+      button:
+        text: 'GPA Transcript'
+        url: '/static/uploads/resume.pdf'
+
       Scholarships and titles include:
       - National Inspiration Scholarship (2021, 2022, 2023)
       - Xizhi Scholarship (2022, 2023) (comprehensive quality assessment top 1 of class)
