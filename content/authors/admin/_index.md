@@ -21,7 +21,7 @@ role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Colloge of Information and Electrical Engineering, China Agricultural University
+  - name: College of Information and Electrical Engineering, China Agricultural University
     url: http://ciee.cau.edu.cn/
 
 # Social network links
@@ -43,7 +43,7 @@ education:
     institution: College of Engineering, China Agricultural University
     date_start: 2021-09-01
     date_end: 2022-02-01
-  - area: Computer Science(bachelor's degree)
+  - area: Computer Science(bachelor's degree expected)
     institution: College of Information and Electrical Engineering, China Agricultural University
     date_start: 2022-03-01
     date_end: 2025-07-01
@@ -84,11 +84,12 @@ education:
 
       Scholarships and titles include:
       - National Inspiration Scholarship (2021, 2022, 2023)
-      - "Three Good Student" of school level (2022, 2023)
       - Xizhi Scholarship (2022, 2023) (comprehensive quality assessment top 1 of class)
       - Academic Second Class Scholarship (2022, 2023) (GPA top 10% of major)
       - Cultural and Sports Excellence Scholarship (2022, 2023)
       - Lenovo Smart Agriculture Talent Scholarship (2023) (agricultural contributions top 10 of college)
+      - "Three Good Student" of school level (2022, 2023)
+      - 3-Star Volunteer of Beijing Volunteer Service Federation (685.5 hours in volunteering)
 
 work:
   - position: An Intelligent Seed Selection Research Based on Machine Vision
@@ -131,8 +132,8 @@ work:
       - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
 
       Achievements include:
-      - an existing website(available at https://2023.igem.wiki/cau-china/).
-      - a gold medal & best new basic part nomination(undergraduate track) in iGEM.
+      - an existing website(available at https://2023.igem.wiki/cau-china/ ).
+      - gold medal & best new basic part nomination(undergraduate track) in iGEM.
       
   - position: Primary-Auxiliary Memory Mapping Simulator
     company_name: Participant
@@ -172,7 +173,7 @@ skills:
         percent: 100
         icon: chart-bar
       - name: Label-Studio
-        description: 'a platform for data pre-processing, used in object detection'
+        description: 'a platform for data pre-processing, used in object/target detection'
         percent: 100
         icon: chart-bar
       - name: Anaconda
@@ -200,7 +201,9 @@ awards:
     summary: |
       Competition's Chinese name: 国际基因工程机器大赛
 
-      Project name: [My Silium](https://2023.igem.wiki/cau-china/)
+      Project name: My Silium(菌硅子)
+
+      More details available at [HERE](https://2023.igem.wiki/cau-china/)
 
   # national level
   - title: National Mathematics Contest for College Students
@@ -211,7 +214,7 @@ awards:
     summary: |
       Competition's Chinese name: 全国大学生数学竞赛
 
-  - title: National English Contest for College Students
+  - title: National English Contest for College Students(NECCS)
     url: ''
     date: '2023-04-01'
     awarder: Third-prize, national level
@@ -226,6 +229,7 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
+    
   - title: The Sixth Puyi Prize National Student Translation Competition English-Chinese Translation Group Preliminary Competition
     url: ''
     date: '2022-06-01'
@@ -244,6 +248,8 @@ awards:
       Competition's Chinese name: 第三届全国农科学子创新创业大赛华北片区复赛科技发明创新赛道
 
       Project name: Genome - Wide Identificaation and Expression Analysis of ACTIN Family Genes in Sweet Potato and Its Two Diploid Relatives
+
+      More details available at [HERE](https://doi.org/10.3390/ijms241310930)
   
   - title: Challenge Cup Capital University Students' Extracurricular Academic and Technological Works Competition "Youngsters Help Beijing Suburbs" Rural Revitalization Special Competition
     url: ''
@@ -253,7 +259,8 @@ awards:
     summary: |
       Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青振京郊”乡村振兴专项赛
 
-      Project name: "Yong" bonding friendship, "joy" in it - Yongledian town characteristics of the road to development(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
+      Project name: "Forever" Bonding Friendship, "Joy" in it - The Characteristic Road to Development for Yongledian Town(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
+    
   - title: Challenge Cup Extracurricular Academic and Technological Works Competition for College Students in Capital City "Youngsters Gather to Create Wonderful Ideas" Black Technology Special Competition
     url: ''
     date: '2023-06-01'
@@ -262,7 +269,8 @@ awards:
     summary: |
       Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青聚奇思”黑科技专项赛
 
-      Project name: Study of aqueous zinc ion batteries based on vanadium oxide thin films(基于氧化钒薄膜的水系锌离子电池研究)
+      Project name: Study of Aqueous Zinc Ion Batteries Based on Vanadium Oxide Thin Films(基于氧化钒薄膜的水系锌离子电池研究)
+    
   - title: Beijing Math Contest for College Students
     url: ''
     date: '2022-11-01'
@@ -270,21 +278,24 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: 北京市大学生数学竞赛
+    
   # school level
-  - title: Preliminary Competition of the National English Reading Contest of the Foreign Studies Society-Guo Cai Cup
+  - title: Preliminary Competition of the National English Reading Contest of the Foreign Studies Society - Guo Cai Cup
     url: ''
     date: '2023-10-01'
     awarder: Special-prize, school level
     icon: 💭
     summary: |
       Competition's Chinese name: “外研社·国才杯”全国英语阅读大赛初赛
-  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
+    
+  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society - Guo Cai Cup
     url: ''
     date: '2023-10-01'
     awarder: First-prize, school level
     icon: 💭
     summary: |
       Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
+    
   - title: China Agricultural University Innovation Design Competition for Agricultural Water Resources Engineering and Related Programs
     url: ''
     date: '2023-10-01'
@@ -311,7 +322,7 @@ awards:
     summary: |
       Competition's Chinese name: 中国大学生计算机设计大赛校赛选拔赛
 
-      Project name: Diffraction image analysis based on matlab(基于Matlab的衍射图像分析)
+      Project name: Diffraction Image Analysis Based on Matlab(基于Matlab的衍射图像分析)
 
   - title: The Third Physics Theory Competition for Undergraduates of China Agricultural University (Non-Physics A Group)
     url: ''
@@ -319,7 +330,7 @@ awards:
     awarder: Third-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 中国农业大学“强理兴农”第三届大学生物理理论竞赛非物理A组
+      Competition's Chinese name: 中国农业大学“强理兴农”第三届大学生物理理论竞赛(非物理A组)
   
   - title: China Agricultural University 3D Digital Innovation Design Competition
     url: ''
@@ -329,7 +340,7 @@ awards:
     summary: |
       Competition's Chinese name: 中国农业大学三维数字化创新设计大赛
     
-      Project name: Self-propelled green feed harvester(自走式青饲料收获机)
+      Project name: Self-propelled Green Feed Harvester(自走式青饲料收获机)
   
   - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
     url: ''
@@ -339,7 +350,7 @@ awards:
     summary: |
       Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
     
-      Project name: Development of a machine vision-based system for analyzing phenotypic traits in Drosophila melanogaster(基于机器视觉的果蝇表型性状分析系统开发)
+      Project name: Development of A Machine Vision-based System for Analyzing Phenotypic Traits in Drosophila Melanogaster(基于机器视觉的果蝇表型性状分析系统开发)
   
   - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
     url: ''
@@ -350,6 +361,8 @@ awards:
       Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
     
       Project name: Royal Stone Culture —— The Leader in Efficient Stone Objects Conservation(“御石文化”——高效石质物品保护引领者)
+
+      More details available at [HERE](https://2022.igem.wiki/cau-china/)
   
   - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
     url: ''
@@ -359,7 +372,7 @@ awards:
     summary: |
       Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
     
-      Project name: Integrated solar energy utilization design for greenhouse split-frequency cover structures(温室分频覆盖结构的太阳能综合利用设计)
+      Project name: Integrated Solar Energy Utilization Design for Greenhouse Split-frequency Cover Structures(温室分频覆盖结构的太阳能综合利用设计)
   
   - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
     url: ''
@@ -369,7 +382,8 @@ awards:
     summary: |
       Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
     
-      Project name: Genome-wide identification and expression analysis of the KTI family involved in plant resistance in sweetpotato and its two diploid relatives(甘薯及其两个二倍体亲缘关系中参与植物抗性的KTI家族的全基因组鉴定与表达分析)
+      Project name: Genome-wide Identification and Expression Analysis of the KTI Family Involved in Plant Resistance in Sweetpotato and Its Two Diploid Relatives(甘薯及其两个二倍体亲缘关系中参与植物抗性的KTI家族的全基因组鉴定与表达分析)
+    
   - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
     url: ''
     date: '2022-10-01'
@@ -377,6 +391,7 @@ awards:
     icon: 💭
     summary: |
       Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
+    
   - title: China Agricultural University University Physics Experiment Competition for Undergraduates
     url: ''
     date: '2022-10-01'
@@ -385,7 +400,7 @@ awards:
     summary: |
       Competition's Chinese name: 中国农业大学校级大学生物理实验竞赛
     
-      Project name: Diffraction image analysis based on matlab(基于Matlab的衍射图像分析)
+      Project name: Diffraction Image Analysis Based on Matlab(基于Matlab的衍射图像分析)
   
   - title: China Renewable Energy Society Excellent Science and Technology Work Competition for College Students on-campus Selection Competition
     url: ''
@@ -395,7 +410,7 @@ awards:
     summary: |
       Competition's Chinese name: 中国可再生能源学会大学生优秀科技作品竞赛校内选拔赛
     
-      Project name: Study of aqueous zinc ion batteries based on vanadium oxide thin films(基于氧化钒薄膜的水系锌离子电池研究)
+      Project name: Study of Aqueous Zinc Ion Batteries Based on Vanadium Oxide Thin Films(基于氧化钒薄膜的水系锌离子电池研究)
   
   - title: National University Physics Laboratory Competition Intramural Selection Competition
     url: ''
@@ -405,7 +420,7 @@ awards:
     summary: |
       Competition's Chinese name: 全国大学物理实验竞赛校内选拔赛
     
-      Project name: Self-balancing trolley based on feed effect(基于进动效应的自平衡小车)
+      Project name: Self-balancing Trolley Based on Precession Effect(基于进动效应的自平衡小车)
   
   - title: China Agricultural University Mathematical Modeling Selection Competition
     url: ''
@@ -415,7 +430,7 @@ awards:
     summary: |
       Competition's Chinese name: 中国农业大学数学建模选拔赛
   
-  - title: China Agricultural University Campus Competition of the First International Competency Competition for Young Talents in Beijing Colleges and Universities "Foreign Teaching Service Cup
+  - title: China Agricultural University Campus Competition of the First International Competency Competition for Young Talents in Beijing Colleges and Universities of the Foreign Teaching Service Cup
     url: ''
     date: '2022-06-01'
     awarder: Second-prize, school level
@@ -433,10 +448,9 @@ awards:
     summary: |
       Competition's Chinese name: 第三届中国农业大学“兴农杯”创新创业大赛
     
-      Project name: CAU Rice Man - a service-oriented campus public platform(农带干饭人——服务型校园公众平台)
+      Project name: CAU Rice Man - A Service-oriented Campus Public Platform(农带干饭人——服务型校园公众平台)
 
-
-
+      More details available at [HERE](https://mp.weixin.qq.com/s/LgAaf5A4h1E-qld0HDE1Iw)
 ---
 
 I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities. Additionally, I record personal learning steps through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/), where I am also known as MorleyOlsen.
