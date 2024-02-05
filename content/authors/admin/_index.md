@@ -132,7 +132,7 @@ work:
       - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
 
       Achievements include:
-      - an existing website(available at https://2023.igem.wiki/cau-china/ ).
+      - an existing website available at [HERE](https://2023.igem.wiki/cau-china/).
       - gold medal & best new basic part nomination(undergraduate track) in iGEM.
       
   - position: Primary-Auxiliary Memory Mapping Simulator
