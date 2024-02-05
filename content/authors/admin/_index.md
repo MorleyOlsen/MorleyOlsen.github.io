@@ -50,6 +50,9 @@ education:
     button:
         text: 'GPA Transcript(English version)'
         url: '/uploads/transcript.pdf'
+    button:
+        text: 'GPA Transcript(Chinese version)'
+        url: '/uploads/trans-cn.pdf'
     summary: |
       GPA: 3.86/4.0 (up to the first 4 semesters)
 
