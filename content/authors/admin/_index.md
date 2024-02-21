@@ -50,20 +50,21 @@ education:
     button:
         text: 'GPA Transcript(English version)'
         url: '/uploads/transcript.pdf'
+    
     button:
         text: 'GPA Transcript(Chinese version)'
         url: '/uploads/trans-cn.pdf'
     summary: |
-      GPA: 3.86/4.0 (up to the first 4 semesters)
+      GPA: 3.87/4.0 (up to the first 5 semesters)
 
-      Rank: 4/61 (up to the first 4 semesters)
+      Rank: 4/61 (up to the first 5 semesters)
       
       English level:
       - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
       - CET 6: 621/710 (221 in listening, 224 in reading, 176 in writing & translating)
       
       Outstanding major courses include:
-      - [first grade]
+      - WHILE FRESHMAN
       - C Programming Language (A+)
       - Advanced Math (A- in part 1, A in part 2)
       - Mathematics Modeling (A)
@@ -72,7 +73,7 @@ education:
       - Discrete Mathematics 1 (A)
       - Network Programming Design (A)
       - 
-      - [second grade]
+      - WHILE SOPHOMORE
       - Computing Method (A)
       - Digital Electronic Technology (A)
       - Data Structure (A)
@@ -83,10 +84,11 @@ education:
       - Computer Organization & Architecture Training (A)
       - Algorithms Design and Analysis Training (A+)
       -
-      - [third grade]
+      - WHILE JUNOIR
       - Artificial Intelligence 1 (A+)
       - Interface Technology (A)
-      - to be continued...
+      - Operating System (A)
+      - Computer Organization & Architecture 2 (A)
 
       Scholarships and titles include:
       - National Inspiration Scholarship (2021, 2022, 2023)
@@ -103,15 +105,17 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-12-01
-    date_end: ''
+    date_end: '2024-01-01'
     summary: |
       Responsibilities include:
-      - improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
-      - improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
-      - utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
+      - Improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
+      - Improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
+      - Utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
    
       Achievements include:
       - a Chinese software copyright.
+      - a SCI paper (under review).
+   
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant
     company_url: ''
@@ -126,6 +130,7 @@ work:
 
       Achievements include:
       - a Chinese software copyright.
+
   - position: My Silium Website
     company_name: Participant
     company_url: ''
@@ -138,7 +143,7 @@ work:
       - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
 
       Achievements include:
-      - an existing website available at [HERE](https://2023.igem.wiki/cau-china/).
+      - an existing website, available at [HERE](https://2023.igem.wiki/cau-china/).
       - gold medal & best new basic part nomination(undergraduate track) in iGEM.
       
   - position: Primary-Auxiliary Memory Mapping Simulator
@@ -286,7 +291,7 @@ awards:
       Competition's Chinese name: 北京市大学生数学竞赛
     
   # school level
-  - title: China Agricultural University Programming Contest
+  - title: Programming Contest of China Agricultural University
     url: ''
     date: '2024-01-01'
     awarder: Third-prize, school level
@@ -467,4 +472,4 @@ awards:
       More details available at [HERE](https://mp.weixin.qq.com/s/LgAaf5A4h1E-qld0HDE1Iw)
 ---
 
-I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and developing abilities. Additionally, I record personal learning steps through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/), where I am also known as MorleyOlsen.
+I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and development capability. Additionally, I have recorded personal learning steps through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/).
