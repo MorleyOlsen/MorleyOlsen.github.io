@@ -57,7 +57,7 @@ education:
     summary: |
       GPA: 3.87/4.0 (up to the first 5 semesters)
 
-      Rank: 4/61 (up to the first 5 semesters)
+      Rank: 4/61 (up to the first 4 semesters)
       
       English level:
       - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
@@ -105,7 +105,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-12-01
-    date_end: '2024-01-01'
+    date_end: 2024-03-01
     summary: |
       Responsibilities include:
       - Improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
@@ -115,6 +115,7 @@ work:
       Achievements include:
       - a Chinese software copyright.
       - a SCI paper (under review).
+      - a University Research Project of school level (in process).
    
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant
@@ -156,6 +157,19 @@ work:
       Responsibilities include:
       - Designing address mapping and data access between different storage structures.
       - Implementation of sequential flow of data and address access.
+      
+  - position: A Rapid Detection Research of Mandarin Fish Fry Marking Based on Deep Learning
+    company_name: Leader
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Proposing potiential tracking methods in sequential video frames.
+   
+      Achievements include:
+      - a University Research Project of school level (in process).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
