@@ -96,7 +96,7 @@ education:
       - Academic Second Class Scholarship (2022, 2023) (GPA top 10% of major)
       - Cultural and Sports Excellence Scholarship (2022, 2023)
       - Lenovo Smart Agriculture Talent Scholarship (2023) (agricultural contributions top 10 of college)
-      - "Three Good Student" of school level (2022, 2023)
+      - Three Good Student of School Level (2022, 2023)
       - 3-Star Volunteer of Beijing Volunteer Service Federation (685.5 hours in volunteering)
 
 work:
@@ -163,7 +163,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-03-01
-    date_end: ''
+    date_end: 2025-03-01
     summary: |
       Responsibilities include:
       - Proposing potiential tracking methods in sequential video frames.
