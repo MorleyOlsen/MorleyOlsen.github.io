@@ -57,7 +57,7 @@ education:
     summary: |
       GPA: 3.87/4.0 (up to the first 5 semesters)
 
-      Rank: 4/61 (up to the first 4 semesters)
+      Rank: 2/63 (up to the first 5 semesters)
       
       English level:
       - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
