@@ -100,55 +100,58 @@ education:
       - 3-Star Volunteer of Beijing Volunteer Service Federation (685.5 hours in volunteering)
 
 work:
+  # 1
   - position: An Intelligent Seed Selection Research Based on Machine Vision
-    company_name: Leader
+    company_name: Leader (advised by Associate Professor Yaojun Wang from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2022-12-01
     date_end: 2024-03-01
     summary: |
       Responsibilities include:
-      - Improving YOLOv5(a target detection model) to achieve a real-time mechanism for rice classification.
-      - Improving ConvNeXt-Tiny(a convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
-      - Utilizing K-means(a clustering method in machine learning) to calculate the chalk area of rice.
+      - Exploring basic tasks such as classification with **ANN**, and presenting effective pre- and post- elevation methods.
+      - Improving **YOLOv5**(an object detection model) to achieve a real-time mechanism for rice classification.
+      - Improving **ConvNeXt-Tiny**(a SOTA convolutional neural network) to achieve a completeness-evaluating mechanism for a certain type of rice.
+      - Utilizing **K-means**(a clustering method in machine learning) to calculate the chalk area of rice.
    
       Achievements include:
-      - a Chinese software copyright.
-      - an SCI paper (under review).
+      - a Chinese software copyright(obtained).
+      - a Q1 SCI paper in CAS division (under review).
       - a University Research Project of school level (in process).
-   
+  # 2
   - position: A Management and Service System for Data on Agricultural Machinery Operations
-    company_name: Participant
+    company_name: Participant (advised by Associate Professor [Qin Ma](http://faculty.cau.edu.cn/xxdqxy/mq/list.htm) from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2023-07-01
     summary: |
       Responsibilities include:
-      - Retrieving agricultural machinery using fuzzy queries.
-      - Calculation of farmland area using Monte Carlo and triangular sectioning.
-      - Realization of shortest path planning by Floyd & Dijkstra algorithms.
+      - Retrieving agricultural machinery using **fuzzy queries**.
+      - Calculation of farmland area using **Monte Carlo** and **triangular sectioning**.
+      - Realization of shortest path planning by **Floyd and Dijkstra algorithms**.
 
       Achievements include:
-      - a Chinese software copyright.
-
+      - a Chinese software copyright(obtained).
+  # 3
   - position: My Silium Website
-    company_name: Participant
+    company_name: Participant (advised by Associate Professor Na Wang from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2023-11-01
     summary: |
       Responsibilities include:
-      - Realization of framing, routing, and animation of web pages(self-learned).
-      - Discussions with members of other groups, such as dry-lab, wet-lab, human-practice, etc.
+      - Realization of framing, routing, and animation of web pages(self-learned) by Vue.
+      - Weekly discussions with members of other groups, such as dry-lab, wet-lab,and human-practice, for fresh ideas.
+      - Teaching other members to record experiments using Typora(a handy markdown software).
 
       Achievements include:
       - an existing website, available at [HERE](https://2023.igem.wiki/cau-china/).
-      - gold medal & best new basic part nomination(undergraduate track) in iGEM.
-      
+      - gold medal & best new basic part nomination in iGEM.
+  # 4
   - position: Primary-Auxiliary Memory Mapping Simulator
-    company_name: Participant
+    company_name: Participant (advised by Associate Professor [Yinxue Shi](https://faculty.cau.edu.cn/xxdqxy/syx/list.htm) from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2023-12-01
@@ -157,9 +160,23 @@ work:
       Responsibilities include:
       - Designing address mapping and data access between different storage structures.
       - Implementation of sequential flow of data and address access.
-      
+  # 5
+  - position: Detection of Crop Plants in Field Based on LiDAR Intelligent Recognition Algorithm
+    company_name: Participant (advised by Associate Professor Yaojun Wang from CAU)
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: 2024-01-01
+    summary: |
+      Responsibilities include:
+      - Designing practicable algorithms for calculation of total number, through both software and hardware.
+      - Proposing image processing method after LiDAR map building.
+
+      Achievements include:
+      - a Chinese software copyright(under review).
+  # 6
   - position: A Rapid Detection Research of Mandarin Fish Fry Marking Based on Deep Learning
-    company_name: Leader
+    company_name: Leader (advised by Associate Professor [Haihua Wang](https://faculty.cau.edu.cn/xxdqxy/whh/list.htm) from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2024-03-01
