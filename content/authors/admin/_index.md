@@ -312,13 +312,13 @@ awards:
     awarder: Third-prize, school level
     icon: 💭
   # 18
-  - title: “外研社·国才杯”全国英语阅读大赛初赛(for English)
+  - title: 外研社·国才杯全国英语阅读大赛初赛(for English)
     url: ''
     date: '2023-10-01'
     awarder: Special-prize, school level
     icon: 💭
   # 17
-  - title: “外研社·国才杯”全国英语写作大赛初赛(for English)
+  - title: 外研社·国才杯全国英语写作大赛初赛(for English)
     url: ''
     date: '2023-10-01'
     awarder: First-prize, school level
@@ -394,7 +394,7 @@ awards:
     summary: |
       Project: Genome-wide Identification and Expression Analysis of the KTI Family Involved in Plant Resistance in Sweetpotato and Its Two Diploid Relatives(甘薯及其两个二倍体亲缘关系中参与植物抗性的KTI家族的全基因组鉴定与表达分析)
   # 7
-  - title: “外研社·国才杯”全国英语写作大赛初赛(for English)
+  - title: 外研社·国才杯全国英语写作大赛初赛(for English)
     url: ''
     date: '2022-10-01'
     awarder: Second-prize, school level
@@ -430,7 +430,7 @@ awards:
     awarder: Third-prize, school level
     icon: 💭
   # 2
-  - title: 第一届“外教社杯”北京高校青年人才国际胜任力大赛中国农业大学校园赛(for English Proposal)
+  - title: 第一届外教社杯北京高校青年人才国际胜任力大赛中国农业大学校园赛(for English Proposal)
     url: ''
     date: '2022-06-01'
     awarder: Second-prize, school level
@@ -438,7 +438,7 @@ awards:
     summary: |
       Project: Innovative Strategies for the Post-Pandemic Era--Advancing Gender Equality in A Post-pandemic World
   # 1
-  - title: 第三届中国农业大学“兴农杯”创新创业大赛(for Innovation & Entrepreneurship)
+  - title: 第三届中国农业大学兴农杯创新创业大赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2022-05-01'
     awarder: Third-prize, school level
