@@ -120,7 +120,7 @@ work:
       - a University Research Project of school level (in process).
   # 2
   - position: A Management and Service System for Data on Agricultural Machinery Operations
-    company_name: Participant (advised by Associate Professor [Qin Ma](http://faculty.cau.edu.cn/xxdqxy/mq/list.htm) from CAU)
+    company_name: Participant (advised by Associate Professor Qin Ma from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2023-06-01
@@ -143,15 +143,15 @@ work:
     summary: |
       Responsibilities include:
       - Realization of framing, routing, and animation of web pages(self-learned) by Vue.
-      - Weekly discussions with members of other groups, such as dry-lab, wet-lab,and human-practice, for fresh ideas.
-      - Teaching other members to record experiments using Typora(a handy markdown software).
+      - Participating in weekly discussions for fresh ideas in synthetic biology.
+      - Teaching other group memberse to record experiments by Typora(a handy markdown software).
 
       Achievements include:
       - an existing website, available at [HERE](https://2023.igem.wiki/cau-china/).
       - gold medal & best new basic part nomination in iGEM.
   # 4
   - position: Primary-Auxiliary Memory Mapping Simulator
-    company_name: Participant (advised by Associate Professor [Yinxue Shi](https://faculty.cau.edu.cn/xxdqxy/syx/list.htm) from CAU)
+    company_name: Participant (advised by Associate Professor Yinxue Shi from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2023-12-01
@@ -176,7 +176,7 @@ work:
       - a Chinese software copyright(under review).
   # 6
   - position: A Rapid Detection Research of Mandarin Fish Fry Marking Based on Deep Learning
-    company_name: Leader (advised by Associate Professor [Haihua Wang](https://faculty.cau.edu.cn/xxdqxy/whh/list.htm) from CAU)
+    company_name: Leader (advised by Associate Professor Haihua Wang from CAU)
     company_url: ''
     company_logo: ''
     date_start: 2024-03-01
