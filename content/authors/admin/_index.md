@@ -114,7 +114,7 @@ work:
    
       Achievements include:
       - a Chinese software copyright.
-      - a SCI paper (under review).
+      - an SCI paper (under review).
       - a University Research Project of school level (in process).
    
   - position: A Management and Service System for Data on Agricultural Machinery Operations
