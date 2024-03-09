@@ -305,183 +305,146 @@ awards:
       Competition's Chinese name: 北京市大学生数学竞赛
     
   # school level
-  - title: Programming Contest of China Agricultural University
+  # 19
+  - title: 中国农业大学程序设计大赛(for Algorithm Coding)
     url: ''
     date: '2024-01-01'
     awarder: Third-prize, school level
     icon: 💭
-    summary: |
-      Competition's Chinese name: 中国农业大学程序设计大赛
-  
-  - title: Preliminary Competition of the National English Reading Contest of the Foreign Studies Society - Guo Cai Cup
+  # 18
+  - title: “外研社·国才杯”全国英语阅读大赛初赛(for English)
     url: ''
     date: '2023-10-01'
     awarder: Special-prize, school level
     icon: 💭
-    summary: |
-      Competition's Chinese name: “外研社·国才杯”全国英语阅读大赛初赛
-    
-  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society - Guo Cai Cup
+  # 17
+  - title: “外研社·国才杯”全国英语写作大赛初赛(for English)
     url: ''
     date: '2023-10-01'
     awarder: First-prize, school level
     icon: 💭
-    summary: |
-      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
-    
-  - title: China Agricultural University Innovation Design Competition for Agricultural Water Resources Engineering and Related Programs
+  # 16
+  - title: 中国农业大学农业水利工程及相关专业创新设计大赛(for Engineering Design)
     url: ''
     date: '2023-10-01'
     awarder: Second-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 中国农业大学农业水利工程及相关专业创新设计大赛
-
-      Project name: Informed Straw Recycling and Treatment Program(信息化秸秆回收处理方案)
-
-  - title: China Agricultural University Blue Bridge Cup National Software and Information Technology Professionals Competition On-campus Selection Competition
+      Project: Informed Straw Recycling and Treatment Program(信息化秸秆回收处理方案)
+  # 15
+  - title: 中国农业大学蓝桥杯全国软件和信息技术专业人才大赛校内选拔赛(for Algorithm Coding)
     url: ''
     date: '2023-10-01'
     awarder: Third-prize, school level
     icon: 💭
-    summary: |
-      Competition's Chinese name: 中国农业大学蓝桥杯全国软件和信息技术专业人才大赛校内选拔赛
-    
-  - title: China University Computer Design Competition School Selection Competition
+  # 14
+  - title: 中国大学生计算机设计大赛校赛选拔赛(for Computer Design)
     url: ''
     date: '2023-09-01'
     awarder: First-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 中国大学生计算机设计大赛校赛选拔赛
-
-      Project name: Diffraction Image Analysis Based on Matlab(基于Matlab的衍射图像分析)
-
-  - title: The Third Physics Theory Competition for Undergraduates of China Agricultural University (Non-Physics A Group)
+      Project: Diffraction Image Analysis Based on Matlab(基于Matlab的衍射图像分析)
+  # 13
+  - title: 中国农业大学“强理兴农”第三届大学生物理理论竞赛(for Physics)
     url: ''
     date: '2023-09-01'
     awarder: Third-prize, school level
     icon: 💭
-    summary: |
-      Competition's Chinese name: 中国农业大学“强理兴农”第三届大学生物理理论竞赛(非物理A组)
-  
-  - title: China Agricultural University 3D Digital Innovation Design Competition
+  # 12
+  - title: 中国农业大学三维数字化创新设计大赛(for Engineering Design)
     url: ''
     date: '2023-06-01'
     awarder: Third-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 中国农业大学三维数字化创新设计大赛
-    
-      Project name: Self-propelled Green Feed Harvester(自走式青饲料收获机)
-  
-  - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
+      Project: Self-propelled Green Feed Harvester(自走式青饲料收获机)
+  # 11
+  - title: 第四届中国农业大学“兴农杯”创新创业大赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-05-01'
     awarder: Third-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
-    
-      Project name: Development of A Machine Vision-based System for Analyzing Phenotypic Traits in Drosophila Melanogaster(基于机器视觉的果蝇表型性状分析系统开发)
-  
-  - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
+      Project: Development of A Machine Vision-based System for Analyzing Phenotypic Traits in Drosophila Melanogaster(基于机器视觉的果蝇表型性状分析系统开发)
+  # 10
+  - title: 第四届中国农业大学“兴农杯”创新创业大赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-05-01'
     awarder: First-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
-    
-      Project name: Royal Stone Culture —— The Leader in Efficient Stone Objects Conservation(“御石文化”——高效石质物品保护引领者)
+      Project: Royal Stone Culture -- The Leader in Efficient Stone Objects Conservation(“御石文化”——高效石质物品保护引领者)
 
       More details available at [HERE](https://2022.igem.wiki/cau-china/)
-  
-  - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
+  # 9
+  - title: 第四届中国农业大学“兴农杯”创新创业大赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-05-01'
     awarder: Second-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
-    
-      Project name: Integrated Solar Energy Utilization Design for Greenhouse Split-frequency Cover Structures(温室分频覆盖结构的太阳能综合利用设计)
-  
-  - title: The Fourth China Agricultural University "Qiangnong Cup" Innovation and Entrepreneurship Competition
+      Project: Integrated Solar Energy Utilization Design for Greenhouse Split-frequency Cover Structures(温室分频覆盖结构的太阳能综合利用设计)
+  # 8
+  - title: 第四届中国农业大学“兴农杯”创新创业大赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-05-01'
     awarder: Second-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 第四届中国农业大学“兴农杯”创新创业大赛
-    
-      Project name: Genome-wide Identification and Expression Analysis of the KTI Family Involved in Plant Resistance in Sweetpotato and Its Two Diploid Relatives(甘薯及其两个二倍体亲缘关系中参与植物抗性的KTI家族的全基因组鉴定与表达分析)
-    
-  - title: Preliminary Competition of the National English Writing Contest of the Foreign Studies Society-Guo Cai Cup
+      Project: Genome-wide Identification and Expression Analysis of the KTI Family Involved in Plant Resistance in Sweetpotato and Its Two Diploid Relatives(甘薯及其两个二倍体亲缘关系中参与植物抗性的KTI家族的全基因组鉴定与表达分析)
+  # 7
+  - title: “外研社·国才杯”全国英语写作大赛初赛(for English)
     url: ''
     date: '2022-10-01'
     awarder: Second-prize, school level
     icon: 💭
-    summary: |
-      Competition's Chinese name: “外研社·国才杯”全国英语写作大赛初赛
-    
-  - title: China Agricultural University University Physics Experiment Competition for Undergraduates
+  # 6
+  - title: 中国农业大学校级大学生物理实验竞赛(for Physical Experiment)
     url: ''
     date: '2022-10-01'
     awarder: Special-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 中国农业大学校级大学生物理实验竞赛
-    
-      Project name: Diffraction Image Analysis Based on Matlab(基于Matlab的衍射图像分析)
-  
-  - title: China Renewable Energy Society Excellent Science and Technology Work Competition for College Students on-campus Selection Competition
+      Project: Diffraction Image Analysis Based on Matlab(基于Matlab的衍射图像分析)
+  # 5
+  - title: 中国可再生能源学会大学生优秀科技作品竞赛校内选拔赛(for Renewable Energy)
     url: ''
     date: '2022-09-01'
     awarder: Special-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 中国可再生能源学会大学生优秀科技作品竞赛校内选拔赛
-    
-      Project name: Study of Aqueous Zinc Ion Batteries Based on Vanadium Oxide Thin Films(基于氧化钒薄膜的水系锌离子电池研究)
-  
-  - title: National University Physics Laboratory Competition Intramural Selection Competition
+      Project: Study of Aqueous Zinc Ion Batteries Based on Vanadium Oxide Thin Films(基于氧化钒薄膜的水系锌离子电池研究)
+  # 4
+  - title: 全国大学物理实验竞赛校内选拔赛(for Physical Experiment)
     url: ''
     date: '2022-09-01'
     awarder: Third-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 全国大学物理实验竞赛校内选拔赛
-    
-      Project name: Self-balancing Trolley Based on Precession Effect(基于进动效应的自平衡小车)
-  
-  - title: China Agricultural University Mathematical Modeling Selection Competition
+      Project: Self-balancing Trolley Based on Precession Effect(基于进动效应的自平衡小车)
+  # 3
+  - title: 中国农业大学数学建模选拔赛(for Mathematical Modeling)
     url: ''
     date: '2022-08-01'
     awarder: Third-prize, school level
     icon: 💭
-    summary: |
-      Competition's Chinese name: 中国农业大学数学建模选拔赛
-  
-  - title: China Agricultural University Campus Competition of the First International Competency Competition for Young Talents in Beijing Colleges and Universities of the Foreign Teaching Service Cup
+  # 2
+  - title: 第一届“外教社杯”北京高校青年人才国际胜任力大赛中国农业大学校园赛(for English Proposal)
     url: ''
     date: '2022-06-01'
     awarder: Second-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 首届“外教社杯”北京高校青年人才国际胜任力大赛中国农业大学校园赛
-    
-      Project name: Innovative Strategies for the Post-Pandemic Era--Advancing Gender Equality in A Post-pandemic World
-  
-  - title: The Third China Agricultural University "Xingnong Cup" Innovation and Entrepreneurship Competition
+      Project: Innovative Strategies for the Post-Pandemic Era--Advancing Gender Equality in A Post-pandemic World
+  # 1
+  - title: 第三届中国农业大学“兴农杯”创新创业大赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2022-05-01'
     awarder: Third-prize, school level
     icon: 💭
     summary: |
-      Competition's Chinese name: 第三届中国农业大学“兴农杯”创新创业大赛
-    
-      Project name: CAU Rice Man - A Service-oriented Campus Public Platform(农带干饭人——服务型校园公众平台)
+      Project: CAU-do-rice-man -- A Service-oriented Campus Public Platform(农带干饭人——服务型校园公众平台)
 
       More details available at [HERE](https://mp.weixin.qq.com/s/LgAaf5A4h1E-qld0HDE1Iw)
 ---
