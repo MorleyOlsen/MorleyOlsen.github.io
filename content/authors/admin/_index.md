@@ -169,7 +169,7 @@ work:
       - Proposing potiential tracking methods in sequential video frames.
    
       Achievements include:
-      - a University Research Project of school level (in process).
+      - a University Research Project of provincial level (in process).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -218,91 +218,80 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   # global level
+  # 1
   - title: International Genetically Engineered Machine Competition(iGEM)
     url: ''
     date: '2023-11-01'
     awarder: Gold medal & Best basic part nomination, global level
     icon: circle-stack
     summary: |
-      Competition's Chinese name: 国际基因工程机器大赛
-
-      Project name: My Silium(菌硅子)
+      Project: My Silium(菌硅子)
 
       More details available at [HERE](https://2023.igem.wiki/cau-china/)
 
   # national level
-  - title: National Mathematics Contest for College Students
+  # 4
+  - title: The Chinese Mathematics Competitions
     url: ''
     date: '2023-11-01'
     awarder: Third-prize, national level
     icon: circle-stack
-    summary: |
-      Competition's Chinese name: 全国大学生数学竞赛
-
+  # 3
   - title: National English Contest for College Students(NECCS)
     url: ''
     date: '2023-04-01'
     awarder: Third-prize, national level
     icon: circle-stack
-    summary: |
-      Competition's Chinese name: 全国大学生英语竞赛
-
-  - title: The Sixth National Collegiate Business English Contest Preliminary Competition
+  # 2
+  - title: 第六届全国高校商务英语竞赛(for English)
     url: ''
     date: '2022-06-01'
     awarder: First-prize, national level
     icon: circle-stack
-    summary: |
-      Competition's Chinese name: 第六届全国高校商务英语竞赛初赛
-    
-  - title: The Sixth Puyi Prize National Student Translation Competition English-Chinese Translation Group Preliminary Competition
+  # 1
+  - title: 第六届普译奖全国大学生翻译比赛(for English)
     url: ''
     date: '2022-06-01'
     awarder: Third-prize, national level
     icon: circle-stack
-    summary: |
-      Competition's Chinese name: 第六届普译奖全国大学生翻译比赛英译汉组初赛
 
   # provincial level
-  - title: The Third National Agricultural Science Students' Innovation and Entrepreneurship Competition North China Region Repeat Competition Science and Technology Invention and Innovation Track
+  # 5
+  - title: 北京市大学生数学竞赛(for math)
+    url: ''
+    date: '2023-11-01'
+    awarder: Third-prize, provincial level
+    icon: circle-stack
+  # 4
+  - title: 第三届全国农科学子创新创业大赛华北片区复赛科技发明创新赛道(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-12-01'
     awarder: Second-prize, provincial level
     icon: circle-stack
     summary: |
-      Competition's Chinese name: 第三届全国农科学子创新创业大赛华北片区复赛科技发明创新赛道
-
-      Project name: Genome - Wide Identificaation and Expression Analysis of ACTIN Family Genes in Sweet Potato and Its Two Diploid Relatives
-
-      More details available at [HERE](https://doi.org/10.3390/ijms241310930)
-  
-  - title: Challenge Cup Capital University Students' Extracurricular Academic and Technological Works Competition "Youngsters Help Beijing Suburbs" Rural Revitalization Special Competition
+      Project: Genome - Wide Identificaation and Expression Analysis of ACTIN Family Genes in Sweet Potato and Its Two Diploid Relatives
+  # 3
+  - title: 挑战杯”首都大学生课外学术科技作品竞赛青振京郊乡村振兴专项赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-06-01'
     awarder: Special-prize, provincial level
     icon: circle-stack
     summary: |
-      Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青振京郊”乡村振兴专项赛
-
-      Project name: "Forever" Bonding Friendship, "Joy" in it - The Characteristic Road to Development for Yongledian Town(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
-    
-  - title: Challenge Cup Extracurricular Academic and Technological Works Competition for College Students in Capital City "Youngsters Gather to Create Wonderful Ideas" Black Technology Special Competition
+      Project: "Forever" Bonding Friendship, "Joy" in it - The Characteristic Road to Development for Yongledian Town(“永”结情谊，“乐”在其中—-永乐店镇特色发展之路)
+  # 2
+  - title: 挑战杯首都大学生课外学术科技作品竞赛青聚奇思黑科技专项赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-06-01'
     awarder: First-prize, provincial level
     icon: circle-stack
     summary: |
-      Competition's Chinese name: “挑战杯”首都大学生课外学术科技作品竞赛“青聚奇思”黑科技专项赛
-
-      Project name: Study of Aqueous Zinc Ion Batteries Based on Vanadium Oxide Thin Films(基于氧化钒薄膜的水系锌离子电池研究)
-    
-  - title: Beijing Math Contest for College Students
+      Project: Study of Aqueous Zinc Ion Batteries Based on Vanadium Oxide Thin Films(基于氧化钒薄膜的水系锌离子电池研究)
+  # 1
+  - title: 北京市大学生数学竞赛(for math)
     url: ''
     date: '2022-11-01'
     awarder: Third-prize, provincial level
     icon: circle-stack
-    summary: |
-      Competition's Chinese name: 北京市大学生数学竞赛
     
   # school level
   # 19
