@@ -291,7 +291,7 @@ awards:
     summary: |
       Project: Genome - Wide Identificaation and Expression Analysis of ACTIN Family Genes in Sweet Potato and Its Two Diploid Relatives
   # 3
-  - title: 挑战杯”首都大学生课外学术科技作品竞赛青振京郊乡村振兴专项赛(for Innovation & Entrepreneurship)
+  - title: 挑战杯首都大学生课外学术科技作品竞赛青振京郊乡村振兴专项赛(for Innovation & Entrepreneurship)
     url: ''
     date: '2023-06-01'
     awarder: Special-prize, provincial level
