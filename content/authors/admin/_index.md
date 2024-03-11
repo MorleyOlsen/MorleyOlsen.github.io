@@ -160,6 +160,9 @@ work:
       Responsibilities include:
       - Designing address mapping and data access between different storage structures.
       - Implementation of sequential flow of data and address access.
+    
+    Achievements include:
+      - a Chinese software copyright(under review).
   # 5
   - position: Detection of Crop Plants in Field Based on LiDAR Intelligent Recognition Algorithm
     company_name: Participant (advised by Associate Professor Yaojun Wang from CAU)
@@ -170,7 +173,7 @@ work:
     summary: |
       Responsibilities include:
       - Designing practicable algorithms for calculation of total number, through both software and hardware.
-      - Proposing image processing method after LiDAR map building.
+      - Proposing image processing methods after LiDAR map building.
 
       Achievements include:
       - a Chinese software copyright(under review).
@@ -183,7 +186,7 @@ work:
     date_end: 2025-03-01
     summary: |
       Responsibilities include:
-      - Proposing potiential tracking methods in sequential video frames.
+      - Exploring potiential tracking methods in sequential video frames.
    
       Achievements include:
       - a University Research Project of provincial level (in process).
@@ -455,4 +458,4 @@ awards:
       More details available at [HERE](https://mp.weixin.qq.com/s/LgAaf5A4h1E-qld0HDE1Iw)
 ---
 
-I am currently an undergraduate student at China Agricultural University, majoring in Computer Science. In terms of the fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and development capability. Additionally, I have recorded personal learning steps through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/).
+I am currently an undergraduate student at **China Agricultural University**, majoring in **Computer Science**. As for the research fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and development capability. Additionally, I have recorded personal learning steps during my college life through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/). Feel free to contact me through **email(morleyolsen@foxmail.com)** or **Wechat(MorleyOlsen_0705)** if there is anything that you want to discuss. :)
