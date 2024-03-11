@@ -161,7 +161,7 @@ work:
       - Designing address mapping and data access between different storage structures.
       - Implementation of sequential flow of data and address access.
     
-    Achievements include:
+      Achievements include:
       - a Chinese software copyright(under review).
   # 5
   - position: Detection of Crop Plants in Field Based on LiDAR Intelligent Recognition Algorithm
