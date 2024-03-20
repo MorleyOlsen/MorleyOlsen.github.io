@@ -183,7 +183,7 @@ work:
     date_end: 2025-03-01
     summary: |
       Responsibilities include:
-      - Exploring potiential tracking methods in sequential video frames.
+      - Exploring potential tracking methods in sequential video frames.
    
       Achievements include:
       - a University Research Project of provincial level (in process).
