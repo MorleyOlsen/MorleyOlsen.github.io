@@ -47,9 +47,6 @@ education:
     institution: College of Information and Electrical Engineering, China Agricultural University
     date_start: 2022-03-01
     date_end: 2025-07-01
-    button:
-        text: 'GPA Transcript(English version)'
-        url: '/uploads/transcript.pdf'
     
     button:
         text: 'GPA Transcript(Chinese version)'
