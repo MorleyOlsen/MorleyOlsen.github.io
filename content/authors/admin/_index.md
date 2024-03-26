@@ -455,5 +455,5 @@ awards:
       More details available at [HERE](https://mp.weixin.qq.com/s/LgAaf5A4h1E-qld0HDE1Iw)
 ---
 
-I am currently an undergraduate student at **China Agricultural University**, majoring in **Computer Science**. As for the research fields that I hava passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and development capability. 
+I am currently an undergraduate student at **China Agricultural University**, majoring in **Computer Science**. As for the research fields that I have passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and development capability. 
 Additionally, I have recorded personal learning steps during my college life through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/). Feel free to contact me through **email(morleyolsen@foxmail.com), gmail(olsenmorley@gmail.com) or Wechat(MorleyOlsen_0705)** if there is anything that you want to discuss. :)
