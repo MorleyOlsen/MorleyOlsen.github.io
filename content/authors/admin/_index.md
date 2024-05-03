@@ -142,6 +142,7 @@ work:
       - Realization of framing, routing, and animation of web pages(self-learned) by Vue.
       - Participating in weekly discussions for fresh ideas in synthetic biology.
       - Teaching other group memberse to record experiments by Typora(a handy markdown software).
+      - Partly participating in the dry lab work(mathematical modeling).
 
       Achievements include:
       - an existing website, available at [HERE](https://2023.igem.wiki/cau-china/).
@@ -159,7 +160,7 @@ work:
       - Implementation of sequential flow of data and address access.
     
       Achievements include:
-      - a Chinese software copyright(under review).
+      - a Chinese software copyright(obtained).
   # 5
   - position: Detection of Crop Plants in Field Based on LiDAR Intelligent Recognition Algorithm
     company_name: Participant (advised by Associate Professor Yaojun Wang from CAU)
