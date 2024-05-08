@@ -248,6 +248,12 @@ awards:
       More details available at [HERE](https://2023.igem.wiki/cau-china/)
 
   # national level
+  # 5
+  - title: National English Contest for College Students(NECCS)
+    url: ''
+    date: '2024-04-01'
+    awarder: Second-prize, national level
+    icon: circle-stack
   # 4
   - title: The Chinese Mathematics Competitions
     url: ''
