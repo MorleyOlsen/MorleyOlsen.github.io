@@ -112,9 +112,9 @@ work:
       - Utilizing **K-means**(a clustering method in machine learning) to calculate the chalk area of rice.
    
       Achievements include:
-      - a Chinese software copyright(obtained).
-      - a Q1 SCI paper in CAS division (under review).
-      - a University Research Project of school level (in process).
+      - a Chinese software copyright.
+      - an SCI paper (under review).
+      - a University Research Project of school level.
   # 2
   - position: A Management and Service System for Data on Agricultural Machinery Operations
     company_name: Participant (advised by Associate Professor Qin Ma from CAU)
@@ -129,7 +129,7 @@ work:
       - Realization of shortest path planning by **Floyd and Dijkstra algorithms**.
 
       Achievements include:
-      - a Chinese software copyright(obtained).
+      - a Chinese software copyright.
   # 3
   - position: My Silium Website
     company_name: Participant (advised by Associate Professor Na Wang from CAU)
@@ -160,7 +160,7 @@ work:
       - Implementation of sequential flow of data and address access.
     
       Achievements include:
-      - a Chinese software copyright(obtained).
+      - a Chinese software copyright.
   # 5
   - position: Detection of Crop Plants in Field Based on LiDAR Intelligent Recognition Algorithm
     company_name: Participant (advised by Associate Professor Yaojun Wang from CAU)
@@ -174,7 +174,7 @@ work:
       - Proposing image processing methods after LiDAR map building.
 
       Achievements include:
-      - a Chinese software copyright(under review).
+      - a Chinese software copyright.
   # 6
   - position: A Rapid Detection Research of Mandarin Fish Fry Marking Based on Deep Learning
     company_name: Leader (advised by Associate Professor Haihua Wang from CAU)
@@ -318,6 +318,22 @@ awards:
     icon: circle-stack
     
   # school level
+  # 21
+  - title: 全国农科学子创新创业大赛中国农业大学校赛(for Innovation & Entrepreneurship)
+    url: ''
+    date: '2024-05-01'
+    awarder: First-prize, school level
+    icon: 💭
+    summary: |
+      Project: Genome - Wide Identificaation and Expression Analysis of ACTIN Family Genes in Sweet Potato and Its Two Diploid Relatives
+  # 20
+  - title: 全国农科学子创新创业大赛中国农业大学校赛(for Innovation & Entrepreneurship)
+    url: ''
+    date: '2024-05-01'
+    awarder: Second-prize, school level
+    icon: 💭
+    summary: |
+      Project: Informed Straw Recycling and Treatment Program(信息化秸秆回收处理方案)
   # 19
   - title: 中国农业大学程序设计大赛(for Algorithm Coding)
     url: ''
