@@ -297,7 +297,7 @@ awards:
     awarder: Third-prize, provincial level
     icon: circle-stack
     summary: |
-      Project: Data4U Leader in Data Visualization for Social Platforms(Data4U社交平台数据可视化引领者)
+      Project: Leader in Data Visualization for Social Platforms(Data4U社交平台数据可视化引领者)
   # 6
   - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
     url: ''
@@ -305,7 +305,7 @@ awards:
     awarder: Third-prize, provincial level
     icon: circle-stack
     summary: |
-      Project: RiceNet Rice Quality Detection System Based on DNN Models Improved with Multi-attention Mechanism(RiceNet基于多注意力机制 DNN 的大米品质检测系统)
+      Project: Rice Quality Detection System Based on DNN Models Improved with Multi-attention Mechanism(RiceNet基于多注意力机制 DNN 的大米品质检测系统)
   # 5
   - title: 北京市大学生数学竞赛(for Math)
     url: ''
