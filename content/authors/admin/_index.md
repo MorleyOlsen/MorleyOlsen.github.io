@@ -289,7 +289,7 @@ awards:
     awarder: Third-prize, provincial level
     icon: circle-stack
     summary: |
-      Project: Intelligent Agricultural Machinery Operation Data Management Service System(FarmMaste智慧农机作业数据管理服务系统)
+      Project: Intelligent Agricultural Machinery Operation Data Management Service System(FarmMaster智慧农机作业数据管理服务系统)
   # 7
   - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
     url: ''
