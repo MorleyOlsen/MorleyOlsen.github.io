@@ -282,9 +282,32 @@ awards:
     icon: circle-stack
 
   # provincial level
-
+  # 8
+  - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
+    url: ''
+    date: '2024-05-01'
+    awarder: Third-prize, provincial level
+    icon: circle-stack
+    summary: |
+      Project: <FarmMaster> Intelligent Agricultural Machinery Operation Data Management Service System(FarmMaster 智慧农机作业数据管理服务系统)
+  # 7
+  - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
+    url: ''
+    date: '2024-05-01'
+    awarder: Third-prize, provincial level
+    icon: circle-stack
+    summary: |
+      Project: <Data4U> Leader in Data Visualization for Social Platforms(Data4U 社交平台数据可视化引领者)
+  # 6
+  - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
+    url: ''
+    date: '2024-05-01'
+    awarder: Third-prize, provincial level
+    icon: circle-stack
+    summary: |
+      Project: <RiceNet> Rice Quality Detection System Based on DNN Models Improved with Multi-attention Mechanism(RiceNet 基于多注意力机制 DNN 的大米品质检测系统)
   # 5
-  - title: 北京市大学生数学竞赛(for math)
+  - title: 北京市大学生数学竞赛(for Math)
     url: ''
     date: '2023-11-01'
     awarder: Third-prize, provincial level
@@ -314,7 +337,7 @@ awards:
     summary: |
       Project: Study of Aqueous Zinc Ion Batteries Based on Vanadium Oxide Thin Films(基于氧化钒薄膜的水系锌离子电池研究)
   # 1
-  - title: 北京市大学生数学竞赛(for math)
+  - title: 北京市大学生数学竞赛(for Math)
     url: ''
     date: '2022-11-01'
     awarder: Third-prize, provincial level
