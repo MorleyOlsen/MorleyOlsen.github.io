@@ -250,6 +250,14 @@ awards:
       More details available at [HERE](https://2023.igem.wiki/cau-china/)
 
   # national level
+  # 6
+  - title: 全国大学生生命科学竞赛创新创业类(for Innovation & Entrepreneurship)
+    url: ''
+    date: '2024-06-01'
+    awarder: Third-prize, national level
+    icon: circle-stack
+    summary: |
+      Project: Genome - Wide Identification and Expression Analysis of ACTIN Family Genes in Sweet Potato and Its Two Diploid Relatives(薯道难——甘薯及其两个二倍体野生种中肌动蛋白家族基因的全基因组鉴定与表达分析)
   # 5
   - title: National English Contest for College Students(NECCS)
     url: ''
