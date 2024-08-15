@@ -52,25 +52,26 @@ education:
         text: 'GPA Transcript(Chinese version)'
         url: '/uploads/trans-cn.pdf'
     summary: |
-      GPA: 3.87/4.0 (up to the first 5 semesters)
+      GPA: 3.87/4.0 (up to the first 5 semesters, the 6th semester is currently 4.0/4.0)
 
-      Rank: 2/63 (up to the first 5 semesters)
+      Rank: 2/63 (up to the first 5 semesters, possibly reaching 1/63 on September 6th)
       
       English level:
       - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
       - CET 6: 621/710 (221 in listening, 224 in reading, 176 in writing & translating)
       
       Outstanding major courses include:
-      - WHILE FRESHMAN
+      **WHILE FRESHMAN**
       - C Programming Language (A+)
-      - Advanced Math (A- in part 1, A in part 2)
+      - Advanced Math A-1 (A-)
+      - Advanced Math A-2 (A)
       - Mathematics Modeling (A)
       - Probability Theory & Mathematical Statistics (A)
       - Linear Algebra (A-)
       - Discrete Mathematics 1 (A)
       - Network Programming Design (A)
       - 
-      - WHILE SOPHOMORE
+      **WHILE SOPHOMORE**
       - Computing Method (A)
       - Digital Electronic Technology (A)
       - Data Structure (A)
@@ -81,11 +82,16 @@ education:
       - Computer Organization & Architecture Training (A)
       - Algorithms Design and Analysis Training (A+)
       -
-      - WHILE JUNOIR
+      **WHILE JUNOIR**
       - Artificial Intelligence 1 (A+)
       - Interface Technology (A)
       - Operating System (A)
       - Computer Organization & Architecture 2 (A)
+      - Data Mining (A+)
+      - Discrete Mathematics 3 (A+)
+      - Software Engineering (A)
+      - Compiling Principle (A)
+      - Computer Networks (A+)
 
       Scholarships and titles include:
       - National Inspiration Scholarship (2021, 2022, 2023)
@@ -290,6 +296,14 @@ awards:
     icon: circle-stack
 
   # provincial level
+  # 9
+  - title: 挑战杯首都大学生创业计划竞赛青燃希望新时代希望工程公益服务专项赛道(for Innovation & Entrepreneurship)
+    url: ''
+    date: '2024-06-01'
+    awarder: Bronze medal, provincial level
+    icon: circle-stack
+    summary: |
+      Project: Promoting the Comprehensive Growth of Young People in the Urban-rural Interface Based on the Five Education Bases and Mobile Service Stations in Colleges and Universities(烛引知行，光耀田园——基于五育基地及高校流动服务站助推城乡接合部青少年综合成长)
   # 8
   - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
     url: ''
