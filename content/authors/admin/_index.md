@@ -61,6 +61,7 @@ education:
       - CET 6: 621/710 (221 in listening, 224 in reading, 176 in writing & translating)
       
       Outstanding major courses include:
+    
       **WHILE FRESHMAN**
       - C Programming Language (A+)
       - Advanced Math A-1 (A-)
@@ -70,7 +71,7 @@ education:
       - Linear Algebra (A-)
       - Discrete Mathematics 1 (A)
       - Network Programming Design (A)
-      - 
+    
       **WHILE SOPHOMORE**
       - Computing Method (A)
       - Digital Electronic Technology (A)
@@ -81,7 +82,7 @@ education:
       - Computer Organization & Architecture 1 (A)
       - Computer Organization & Architecture Training (A)
       - Algorithms Design and Analysis Training (A+)
-      -
+    
       **WHILE JUNOIR**
       - Artificial Intelligence 1 (A+)
       - Interface Technology (A)
@@ -120,7 +121,7 @@ work:
       Achievements include:
       - a Chinese software copyright.
       - an SCI paper (under review).
-      - a University Research Project of school level.
+      - a [University Research Project](http://bjcxcy.bjtu.edu.cn/Index/ItemDetail?id=e7061b14-2318-49f3-aead-e32ad4c0277e) of school level (excellent project).
       - third-prize in a provincial contest.
   # 2
   - position: A Management and Service System for Data on Agricultural Machinery Operations
