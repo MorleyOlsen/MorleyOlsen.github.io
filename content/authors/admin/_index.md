@@ -99,7 +99,7 @@ education:
       - Xizhi Scholarship (2022, 2023) (comprehensive quality assessment top 1 of class)
       - Academic Second Class Scholarship (2022, 2023) (GPA top 10% of major)
       - Cultural and Sports Excellence Scholarship (2022, 2023)
-      - Lenovo Smart Agriculture Talent Scholarship (2023) (agricultural contributions top 10 of college)
+      - [Lenovo Smart Agriculture Talent Scholarship](https://ciee.cau.edu.cn/art/2023/11/30/art_50454_1003137.html) (2023) (agricultural contributions top 10 of college)
       - Three Good Student of School Level (2022, 2023)
       - 3-Star Volunteer of Beijing Volunteer Service Federation (685.5 hours in volunteering)
 
@@ -120,7 +120,7 @@ work:
    
       Achievements include:
       - a Chinese software copyright.
-      - an SCI paper (under review).
+      - an SCI paper (under review), the initial version can be seen at [HERE](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4760270).
       - a [University Research Project](http://bjcxcy.bjtu.edu.cn/Index/ItemDetail?id=e7061b14-2318-49f3-aead-e32ad4c0277e) of school level (excellent project).
       - third-prize in a provincial contest.
   # 2
