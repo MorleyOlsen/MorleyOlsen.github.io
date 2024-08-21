@@ -120,7 +120,7 @@ work:
    
       Achievements include:
       - a Chinese software copyright.
-      - an SCI paper (under review), the initial version can be seen at [HERE](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4760270).
+      - an SCI paper (under review), [check the initial version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4760270) .
       - a [University Research Project](http://bjcxcy.bjtu.edu.cn/Index/ItemDetail?id=e7061b14-2318-49f3-aead-e32ad4c0277e) of school level (excellent project).
       - third-prize in a provincial contest.
   # 2
