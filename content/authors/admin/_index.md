@@ -50,11 +50,11 @@ education:
     
     button:
         text: 'GPA Transcript(Chinese version)'
-        url: '/uploads/trans-cn.pdf'
+        url: '/uploads/transcript+rank.pdf'
     summary: |
-      GPA: 3.88/4.0
+      **GPA: 3.88/4.0**
 
-      Rank: 1/63
+      **Rank: 1/63**
       
       English level:
       - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
@@ -238,6 +238,8 @@ languages:
     percent: 80
   - name: Chinese(Mandarin)
     percent: 100
+  - name: Sichuan Dialect
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -260,7 +262,7 @@ awards:
   # 6
   - title: 全国大学生生命科学竞赛创新创业类(for Innovation & Entrepreneurship)
     url: ''
-    date: '2024-06-01'
+    date: '2024-08-01'
     awarder: Third-prize, national level
     icon: circle-stack
     summary: |
@@ -367,6 +369,30 @@ awards:
     icon: circle-stack
     
   # school level
+  # 24
+  - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
+    url: ''
+    date: '2024-08-01'
+    awarder: Second-prize, school level
+    icon: 💭
+    summary: |
+      Project: Intelligent Agricultural Machinery Operation Data Management Service System(FarmMaster智慧农机作业数据管理服务系统)
+  # 23
+  - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
+    url: ''
+    date: '2024-08-01'
+    awarder: Second-prize, school level
+    icon: 💭
+    summary: |
+      Project: Leader in Data Visualization for Social Platforms(Data4U社交平台数据可视化引领者)
+  # 22
+  - title: 中国大学生计算机设计大赛北京市级朔日杯赛(for Software Design)
+    url: ''
+    date: '2024-08-01'
+    awarder: Second-prize, school level
+    icon: 💭
+    summary: |
+      Project: Rice Quality Detection System Based on DNN Models Improved with Multi-attention Mechanism(RiceNet基于多注意力机制 DNN 的大米品质检测系统)
   # 21
   - title: 全国农科学子创新创业大赛中国农业大学校赛(for Innovation & Entrepreneurship)
     url: ''
@@ -527,5 +553,5 @@ awards:
       More details available at [HERE](https://mp.weixin.qq.com/s/LgAaf5A4h1E-qld0HDE1Iw)
 ---
 
-I am currently an undergraduate student at **China Agricultural University**, majoring in **Computer Science**. As for the research fields that I have passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting AI, I will continue enhancing my academical skills and development capability. 
+I am currently an undergraduate student at **China Agricultural University**, majoring in **Computer Science and Technology**. As for the research fields that I have passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting applications of computer science, I will continue enhancing my academical skills and development capability. 
 Additionally, I have recorded personal learning steps during my college life through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/). Feel free to contact me through **email(morleyolsen@foxmail.com), gmail(olsenmorley@gmail.com) or Wechat(MorleyOlsen_0705)** if there is anything that you want to discuss. :)
