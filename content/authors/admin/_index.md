@@ -52,9 +52,9 @@ education:
         text: 'GPA Transcript(Chinese version)'
         url: '/uploads/trans-cn.pdf'
     summary: |
-      GPA: 3.87/4.0 (up to the first 5 semesters, the 6th semester is currently 4.0/4.0)
+      GPA: 3.88/4.0
 
-      Rank: 2/63 (up to the first 5 semesters, possibly reaching 1/63 on September 6th)
+      Rank: 1/63
       
       English level:
       - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
