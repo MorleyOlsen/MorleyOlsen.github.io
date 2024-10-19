@@ -43,7 +43,7 @@ education:
     institution: College of Engineering, China Agricultural University
     date_start: 2021-09-01
     date_end: 2022-02-01
-  - area: Computer Science(bachelor's degree expected)
+  - area: Computer Science
     institution: College of Information and Electrical Engineering, China Agricultural University
     date_start: 2022-03-01
     date_end: 2025-07-01
@@ -95,13 +95,16 @@ education:
       - Computer Networks (A+)
 
       Scholarships and titles include:
+      - National Scholarship (2024)
       - National Inspiration Scholarship (2021, 2022, 2023)
-      - Xizhi Scholarship (2022, 2023) (comprehensive quality assessment top 1 of class)
+      - Rusheng Scholarship (2024) (10,000 yuan per year)
+      - Xizhi Scholarship (2022, 2023) (7,500 yuan per year)
+      - Academic First Class Scholarship (2024) (GPA top 5% of major)
       - Academic Second Class Scholarship (2022, 2023) (GPA top 10% of major)
       - Cultural and Sports Excellence Scholarship (2022, 2023)
       - [Lenovo Smart Agriculture Talent Scholarship](https://ciee.cau.edu.cn/art/2023/11/30/art_50454_1003137.html) (2023) (agricultural contributions top 10 of college)
-      - Three Good Student of School Level (2022, 2023)
-      - 3-Star Volunteer of Beijing Volunteer Service Federation (685.5 hours in volunteering)
+      - Three Good Student of School Level (2022, 2023, 2024)
+      - 3-Star Volunteer of Beijing Volunteer Service Federation
 
 work:
   # 1
@@ -120,7 +123,7 @@ work:
    
       Achievements include:
       - a Chinese software copyright.
-      - an SCI paper (under review), [check the initial version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4760270) .
+      - an SCI paper (under review).
       - a [University Research Project](http://bjcxcy.bjtu.edu.cn/Index/ItemDetail?id=e7061b14-2318-49f3-aead-e32ad4c0277e) of school level (excellent project).
       - third-prize in a provincial contest.
   # 2
@@ -184,19 +187,6 @@ work:
 
       Achievements include:
       - a Chinese software copyright.
-  # 6
-  - position: A Rapid Detection Research of Mandarin Fish Fry Marking Based on Deep Learning
-    company_name: Leader (advised by Associate Professor Haihua Wang from CAU)
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-03-01
-    date_end: 2025-03-01
-    summary: |
-      Responsibilities include:
-      - Exploring potential tracking methods in sequential video frames.
-   
-      Achievements include:
-      - a University Research Project of provincial level (in process).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -553,5 +543,6 @@ awards:
       More details available at [HERE](https://mp.weixin.qq.com/s/LgAaf5A4h1E-qld0HDE1Iw)
 ---
 
-I am currently an undergraduate student at **China Agricultural University**, majoring in **Computer Science and Technology**. As for the research fields that I have passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting applications of computer science, I will continue enhancing my academical skills and development capability. 
-Additionally, I have recorded personal learning steps during my college life through [CSDN](https://blog.csdn.net/m0_65787507) and [Leetcode](https://leetcode.cn/u/frosty-6ateskej/). Feel free to contact me through **email(morleyolsen@foxmail.com), gmail(olsenmorley@gmail.com) or Wechat(MorleyOlsen_0705)** if there is anything that you want to discuss. :)
+I am currently an undergraduate student at **China Agricultural University**, majoring in **Computer Science and Technology**. I am now officially an incoming master at **Tsinghua University**.
+As for the research fields that I have passion for, I am now diving into Computer Vision, Computer Organization and Architecture, Multi-modalities, etc. With the desire of boosting applications of computer science, I will continue enhancing my academical skills and development capability. 
+Additionally, I have recorded personal learning steps during my college life through [CSDN](https://blog.csdn.net/m0_65787507). Feel free to contact me through **email(morleyolsen@foxmail.com) or Wechat(MorleyOlsen_0705)** if there is anything that you want to discuss. :)
