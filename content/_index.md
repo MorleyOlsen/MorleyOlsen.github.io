@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
       button:
-        text: Download Chinese Resume
+        text: Download Curriculum Vitae
         url: uploads/abc.pdf
     design:
       banner:
