@@ -3,11 +3,11 @@
 title: 夏婉可
 
 # Name pronunciation (optional)
-name_pronunciation: Xia Wanke
+name_pronunciation: XIA Wanke
 
 # Full name (for SEO)
 first_name: Wanke
-last_name: Xia
+last_name: XIA
 
 # Status emoji
 status:
@@ -102,7 +102,7 @@ education:
       - Academic First Class Scholarship (2024) (GPA top 5% of major)
       - Academic Second Class Scholarship (2022, 2023) (GPA top 10% of major)
       - Cultural and Sports Excellence Scholarship (2022, 2023)
-      - Lenovo Smart Agriculture Talent Scholarship ([2023](https://ciee.cau.edu.cn/art/2023/11/30/art_50454_1003137.html), [2024](https://ciee.cau.edu.cn/art/2024/10/30/art_50454_1042655.html) (agricultural contributions top 10 of college)
+      - Lenovo Smart Agriculture Talent Scholarship ([2023](https://ciee.cau.edu.cn/art/2023/11/30/art_50454_1003137.html), [2024](https://ciee.cau.edu.cn/art/2024/10/30/art_50454_1042655.html))(agricultural contributions top 10 of college)
       - Three Good Student of School Level (2022, 2023, 2024)
       - 3-Star Volunteer of Beijing Volunteer Service Federation
 
