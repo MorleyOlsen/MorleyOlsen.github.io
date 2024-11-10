@@ -39,18 +39,20 @@ education:
     institution: College of Agronomy and Biotechnology, China Agricultural University
     date_start: 2020-09-01
     date_end: 2021-08-01
-  - area: Mechanics
+  - area: Mechanology
     institution: College of Engineering, China Agricultural University
     date_start: 2021-09-01
     date_end: 2022-02-01
-  - area: Computer Science
+  - area: Computer Science and Technology
     institution: College of Information and Electrical Engineering, China Agricultural University
     date_start: 2022-03-01
     date_end: 2025-07-01
     
-    button:
-        text: 'GPA Transcript(Chinese version)'
-        url: '/uploads/transcript+rank.pdf'
+    # button:
+    # text: 'GPA Transcript(Chinese version)'
+    # url: '/uploads/transcript+rank.pdf'
+    # 记得给text和url缩进，下次要用的时候
+    
     summary: |
       **GPA: 3.88/4.0**
 
@@ -60,7 +62,7 @@ education:
       - CET 4: 658/710 (249 in listening, 222 in reading, 187 in writing & translating)
       - CET 6: 621/710 (221 in listening, 224 in reading, 176 in writing & translating)
       
-      Outstanding major courses include:
+      Selected courses include:
     
       **WHILE FRESHMAN**
       - C Programming Language (A+)
@@ -97,8 +99,8 @@ education:
       Scholarships and titles include:
       - National Scholarship (2024)
       - National Inspiration Scholarship (2021, 2022, 2023)
-      - Rusheng Scholarship (2024) (10,000 yuan per year)
-      - Xizhi Scholarship (2022, 2023) (7,500 yuan per year)
+      - Ru-sheng Scholarship (2024) (10,000 yuan per year)
+      - Xi-zhi Scholarship (2022, 2023) (7,500 yuan per year)
       - Academic First Class Scholarship (2024) (GPA top 5% of major)
       - Academic Second Class Scholarship (2022, 2023) (GPA top 10% of major)
       - Cultural and Sports Excellence Scholarship (2022, 2023)
