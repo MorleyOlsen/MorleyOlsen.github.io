@@ -155,7 +155,7 @@ work:
       Responsibilities include:
       - Realization of framing, routing, and animation of web pages(self-learned) by Vue.
       - Participating in weekly discussions for fresh ideas in synthetic biology.
-      - Teaching other group memberse to record experiments by Typora(a handy markdown software).
+      - Teaching other group members to record experiments by Typora(a handy markdown software).
       - Partly participating in the dry lab work(mathematical modeling).
 
       Achievements include:
