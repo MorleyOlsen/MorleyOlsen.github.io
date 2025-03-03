@@ -41,4 +41,5 @@ My research interest includes Computer Vision, AI for Science, Large Language Mo
 - *2021.09 - 2025.06 (expected)*, B.E. in Computer Science and Technology, College of Information and Electrical Engineering, China Agricultural University. 
 
 # 💻 Internships
+- *2025.02 - 2025.03*, LLM Agent Group, Easthome, Beijing, China.
 - *2024.10 - 2025.02*, International Game Development Group, Xiaomi, Beijing, China.
