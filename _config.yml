@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wanke XIA"
-description              : "Master student @THU"
+description              : "A normal student striving for a luck"
 repository               : "MorleyOlsen/MorleyOlsen.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "MorleyOlsen"
   google_plus      :
   keybase          :
   instagram        :
