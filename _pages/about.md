@@ -19,7 +19,7 @@ redirect_from:
 
 I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence, and I will receive my bachelor's degree at CIEE, CAU. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
 
-My research interest includes Computer Vision, AI for Science, Large Language Models, etc. I am now actively looking for both research internships and entrepreneurial internships concerning AI models!
+My research interest includes Computer Vision, AI for Science, Large Language Models, etc. I am now actively looking for both research internships and entrepreneurial internships that involve AI models!
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 I was officially admitted to THU!
