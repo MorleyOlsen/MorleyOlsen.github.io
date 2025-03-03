@@ -29,12 +29,12 @@ My research interest includes Computer Vision, AI for Science, Large Language Mo
 - [An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://arxiv.org/abs/2502.13764), **Wanke Xia#**, Ruoxin Peng#, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang, **arXiv**.
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship.
-- *2024.10* Lenovo Scholarship.
-- *2023.10* National Inspiration Scholarship.
-- *2023.10* Lenovo Scholarship.
-- *2022.10* National Inspiration Scholarship.
-- *2021.10* National Inspiration Scholarship.
+- *2024.10*, National Scholarship.
+- *2024.10*, Lenovo Scholarship.
+- *2023.10*, National Inspiration Scholarship.
+- *2023.10*, Lenovo Scholarship.
+- *2022.10*, National Inspiration Scholarship.
+- *2021.10*, National Inspiration Scholarship.
 
 # 📖 Educations
 - *2025.09 - 2028.06 (expected)*, M.E. in Electronic and Information Engineering, Shenzhen International Graduate School, Tsinghua University. 
