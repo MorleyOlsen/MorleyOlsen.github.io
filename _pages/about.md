@@ -22,7 +22,7 @@ I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Prev
 My research interest includes Computer Vision, AI for Science, Large Language Models, etc. I am now actively looking for both research internships and entrepreneurial internships that involve AI models!
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 I was officially admitted to THU!
+- *2024.09*: &nbsp;🎉🎉 I was officially admitted to THU!
 
 # 📝 Publications 
 
