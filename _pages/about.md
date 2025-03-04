@@ -26,7 +26,7 @@ My research interests include Computer Vision, AI for Science, Large Language Mo
 
 # 📝 Publications 
 
-- An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice, **Wanke Xia#**, Ruoxin Peng#, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang, **arXiv 2025**. [Paper](https://arxiv.org/abs/2502.13764)
+- "An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice", **Wanke Xia#**, Ruoxin Peng#, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang, **arXiv 2025**. [[Paper]](https://arxiv.org/abs/2502.13764)
 
 # 🎖 Honors and Awards
 - *2024.10*, National Scholarship.
