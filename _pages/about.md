@@ -25,9 +25,9 @@ My research interests include Computer Vision, AI for Science, Large Language Mo
 - *2024.09*: &nbsp;🎉🎉 I am admitted to THU as a master student!
 
 # 📝 Publications 
-- [Technical Report]*An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*,
+- [Technical Report] *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*,
   **Wanke Xia#**, Ruoxin Peng#, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang. [[ARXIV]](https://arxiv.org/abs/2502.13764)
-- [Technical Report]*An Improved Pure Fully Connected Neural Network for Rice Grain Classification*,
+- [Technical Report] *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*,
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu. [[ARXIV]](https://arxiv.org/abs/2503.03111)
 
 # 🎖 Honors and Awards
