@@ -29,6 +29,7 @@ Conferences and Journals:
 - currently none.
 <br>
 Technical Reports:
+<br>
 - *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*, **Wanke Xia#**, Ruoxin Peng#, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang. [[ARXIV]](https://arxiv.org/abs/2502.13764)
 - *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*, **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu. [[ARXIV]](https://arxiv.org/abs/2503.03111)
 
