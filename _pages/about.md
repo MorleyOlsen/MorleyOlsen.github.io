@@ -21,6 +21,8 @@ I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Prev
 
 My research interests include Computer Vision, AI for Science, Large Language Models, etc. I am now actively looking for **both research and entrepreneurial internships concerning AI models**! Feel free to contact with me through email!
 
+My Chinese CV can be found at [here](https://github.com/MorleyOlsen/MorleyOlsen.github.io/blob/main/docs/CV-cn.pdf)!
+
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I am admitted to THU as a master student!
 
