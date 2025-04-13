@@ -21,14 +21,13 @@ I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Prev
 
 My research interests include Computer Vision, AI for Science, Large Language Models, etc. I am now actively looking for **internships concerning AI models**! Feel free to contact with me through email!
 
-My Chinese CV can be found [here](../docs/CV-cn.pdf){:target="_blank"}!
-
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I am admitted to THU as a master student!
 
 # 📝 Publications 
+- 🥇: equal contribution
 - [Technical Report] *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*,
-  **Wanke Xia#**, Ruoxin Peng#, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang. [[ARXIV]](https://arxiv.org/abs/2502.13764)
+  **Wanke Xia🥇**, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang. [[ARXIV]](https://arxiv.org/abs/2502.13764)
 - [Technical Report] *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*,
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu. [[ARXIV]](https://arxiv.org/abs/2503.03111)
 
