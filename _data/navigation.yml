@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Papers"
+    url: "/#-papers"
 
-  - title: "Undergrad Experiences"
-    url: "/#-undergrad-experiences"
+  - title: "Honors"
+    url: "/#-honors"
 
   - title: "Educations"
     url: "/#-educations"
