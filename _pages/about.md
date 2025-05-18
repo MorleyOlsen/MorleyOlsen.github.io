@@ -26,12 +26,12 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
 # 📝 Papers 
 - 🥇: equal contribution
-- [Under Review] *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*, Submission to NIPS 2025.
-- [SCI Q2] *A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing*, Zhi-Yu Yang, **Wan-Ke Xia**, Hao-Qi Chu, Wen-Hao Su, Rui-Feng Wang, Haihua Wang.
+- [Under Review] *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*, Submitted to NeurIPS 2025 Datasets and Benchmarks track.
+- [SCI Q2] *A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing*, Zhiyu Yang, **Wanke Xia**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 - [ARXIV] *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*,
-  **Wanke Xia🥇**, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang. [[Technical Report]](https://arxiv.org/abs/2502.13764)
+  **Wanke Xia🥇**, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang.
 - [ARXIV] *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*,
-  **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu. [[Technical Report]](https://arxiv.org/abs/2503.03111)
+  **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu.
 
 # 🎖 Honors
 - *2025.07 (expected)*, Outstanding Graduates of Beijing Ordinary Colleges and Universities.
