@@ -19,7 +19,7 @@ redirect_from:
 
 I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence, and I will receive my bachelor's degree at CIEE, CAU. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
 
-My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships concerning MLLM/LLM**! Feel free to contact with me through email!
+My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM/LLM**! Feel free to contact with me through email!
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I am admitted to THU as a master student!
@@ -35,7 +35,7 @@ My research interests include Computer Vision, Multi-modal Large Language Models
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu.
 
 # 🎖 Honors
-- *2025.07 (expected)*, Outstanding Graduates of Beijing Ordinary Colleges and Universities.
+- *2025.07 (expected)*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
 - *2024.12*, National Scholarship.
 - *2024.10*, Lenovo Scholarship.
 - *2023.11*, Lenovo Scholarship.
