@@ -22,7 +22,8 @@ I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Prev
 My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM/LLM**! Feel free to contact with me through email!
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I am admitted to THU as a master student!
+- *2025.06*: 🎉🎉 Our work of HSSBench is released, check [here](https://arxiv.org/abs/2506.03922)!
+- *2024.09*: 🎉🎉 I am admitted to THU as a master student!
 
 # 📝 Papers 
 - 🥇: equal contribution
