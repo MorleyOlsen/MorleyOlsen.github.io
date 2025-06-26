@@ -40,10 +40,10 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
 - *2024.12*, National Scholarship.
 - *2024.10*, Lenovo Scholarship.
+- *2023.12*, National Encouragement Scholarship.
 - *2023.11*, Lenovo Scholarship.
-- *2023.11*, National Encouragement Scholarship.
-- *2022.11*, National Encouragement Scholarship.
-- *2021.11*, National Encouragement Scholarship.
+- *2022.12*, National Encouragement Scholarship.
+- *2021.12*, National Encouragement Scholarship.
 
 # 📖 Educations
 - *2025.09 - 2028.06 (expected)*, M.E. in Electronic and Information Engineering, Shenzhen International Graduate School, Tsinghua University. 
