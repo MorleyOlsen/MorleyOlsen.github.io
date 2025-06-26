@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence, and I will receive my bachelor's degree at CIEE, CAU. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
+I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
 
-My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM/LLM**! Feel free to contact with me through email!
+My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM/LLM/CV**! Feel free to contact with me through email!
 
 # 🔥 News
-- *2025.06*: 🎉🎉 Our work of HSSBench is released, check [here](https://arxiv.org/abs/2506.03922)!
-- *2024.09*: 🎉🎉 I am admitted to THU as a master student!
+- *2025.06*: 🎉🎉 Our HSSBench is released on ARXIV, check [here](https://arxiv.org/abs/2506.03922)!
+- *2024.09*: 🎉🎉 I am pre-admitted to Tsinghua University as a master student!
 
 # 📝 Papers 
 - 🥇: equal contribution
@@ -37,14 +37,17 @@ My research interests include Computer Vision, Multi-modal Large Language Models
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu.
 
 # 🎖 Honors
-- *2025.07 (expected)*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
+- *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
 - *2024.12*, National Scholarship.
 - *2024.10*, Lenovo Scholarship.
 - *2023.11*, Lenovo Scholarship.
+- *2023.11*, National Encouragement Scholarship.
+- *2022.11*, National Encouragement Scholarship.
+- *2021.11*, National Encouragement Scholarship.
 
 # 📖 Educations
 - *2025.09 - 2028.06 (expected)*, M.E. in Electronic and Information Engineering, Shenzhen International Graduate School, Tsinghua University. 
-- *2021.09 - 2025.06 (now)*, B.E. in Computer Science and Technology, College of Information and Electrical Engineering, China Agricultural University. 
+- *2021.09 - 2025.06*, B.E. in Computer Science and Technology, College of Information and Electrical Engineering, China Agricultural University. 
 
 # 💻 Internships
 - *2025.02 - 2025.03*, LLM Agent Group, **Easthome**, Beijing, China.
