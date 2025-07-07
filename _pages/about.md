@@ -19,7 +19,7 @@ redirect_from:
 
 I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
 
-My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM/LLM/CV**! Feel free to contact with me through email!
+My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM/LLM/CV**! Feel free to contact with me through email! My CV can be downloaded here<a href="docs/CV-cn.pdf">
 
 # 🔥 News
 - *2025.06*: 🎉🎉 Our HSSBench is released on ARXIV, check [here](https://arxiv.org/abs/2506.03922)!
