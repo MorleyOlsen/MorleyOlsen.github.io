@@ -27,13 +27,12 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
 # 📝 Papers 
 - 🥇: equal contribution
+- [Under Review] *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*, Submitted to NeurIPS 2025 Workshop.
 - [Under Review] *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*, Submitted to CAIT 2025.
 - [Under Review] *$G^2$-Estimator: A Hybrid Genetic and Gradient Projection Method for High-Precision Fundamental Matrix Estimation*, Submitted to PRCV 2025.
 - [Under Review] *Bilinear Magic Meets CLIP: Unsupervised Learning in Pig Counting Scenario*, Submitted to ICONIP 2025.
 - [Under Review] *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*, Submitted to NeurIPS 2025.
 - [SCI Q2] *A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing*, Zhiyu Yang, **Wanke Xia**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
-- [ARXIV] *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*,
-  **Wanke Xia🥇**, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yaojun Wang.
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
