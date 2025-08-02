@@ -43,6 +43,8 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
   Zhiyu Yang, **[Wanke Xia](https://morleyolsen.github.io/)**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
+  Plants 2025
+
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
 - *2024.12*, National Scholarship.
