@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming master student at SIGS, THU, advised by Prof. Wenming Yang. Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
+I'm a master student at SIGS, THU, advised by Prof. Wenming Yang. Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
 
-My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM/LLM/CV**! Feel free to contact with me through email!
+My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM**! Feel free to contact with me through email!
 
 # 🔥 News
 - *2025.06*: 🎉🎉 Our HSSBench is released on ARXIV, check [here](https://arxiv.org/abs/2506.03922)!
@@ -29,13 +29,10 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 - 🥇: equal contribution
 - *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*
 
-  Submitted to NeurIPS 2025 Workshop
+  Submitted to NeurIPS 2025 Workshop (CCF - A Workshop)
 - *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*
 
   Submitted to CAIT 2025 (EI)
-- *$G^2$-Estimator: A Hybrid Genetic and Gradient Projection Method for High-Precision Fundamental Matrix Estimation*
-
-  Submitted to PRCV 2025 (CCF - C)
 - *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*
 
   Submitted to NeurIPS 2025 (CCF - A)
@@ -43,7 +40,7 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
   Zhiyu Yang, **[Wanke Xia](https://morleyolsen.github.io/)**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
-  Plants (SCI, JCR - Q1)
+  Plants (JCR - Q1)
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
@@ -55,7 +52,7 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 - *2021.12*, National Encouragement Scholarship.
 
 # 📖 Educations
-- *2025.09 - 2028.06 (expected)*, M.E. in Electronic and Information Engineering, Shenzhen International Graduate School, Tsinghua University. 
+- *2025.09 - 2028.06 (expected)*, M.S. in Electronic and Information Engineering, Shenzhen International Graduate School, Tsinghua University. 
 - *2021.09 - 2025.06*, B.E. in Computer Science and Technology, College of Information and Electrical Engineering, China Agricultural University. 
 
 # 💻 Internships
