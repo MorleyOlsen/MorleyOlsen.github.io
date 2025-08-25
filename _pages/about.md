@@ -30,15 +30,17 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 - *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*
 
   Submitted to NeurIPS 2025 Workshop (CCF - A Workshop)
-- *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*
-
-  Submitted to CAIT 2025 (EI)
 - *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*
 
   Submitted to NeurIPS 2025 (CCF - A)
+- *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*
+
+  **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang, Bo Lv, Xunwen Xiang.
+
+  CAIT 2025 (EI)
 - *A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing*
 
-  Zhiyu Yang, **[Wanke Xia](https://morleyolsen.github.io/)**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
+  Zhiyu Yang, **Wanke Xia**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
   Plants (JCR - Q1)
 
