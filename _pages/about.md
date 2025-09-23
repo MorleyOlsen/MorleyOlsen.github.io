@@ -27,12 +27,9 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
 # 📝 Papers 
 - 🥇: equal contribution
-- *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*
-
-  Submitted to NeurIPS 2025 Workshop (CCF - A Workshop)
 - *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*
 
-  Submitted to NeurIPS 2025 (CCF - A)
+  Submitted to ICLR 2026
 - *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*
 
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang, Bo Lv, Xunwen Xiang.
