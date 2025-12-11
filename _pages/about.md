@@ -19,17 +19,24 @@ redirect_from:
 
 I'm a master student at SIGS, THU, advised by Prof. Wenming Yang. Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
 
-My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM**! Feel free to contact with me through email!
+My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM**! Feel free to contact with me through email(morleyolsen at foxmail dot com)!
 
 # 🔥 News
 - *2025.06*: 🎉🎉 Our HSSBench is released on ARXIV, check [here](https://arxiv.org/abs/2506.03922)!
-- *2024.09*: 🎉🎉 I am pre-admitted to Tsinghua University as a master student!
 
 # 📝 Papers 
 - 🥇: equal contribution
+- *EgoLCD: Egocentric Video Generation with Long Context Diffusion*
+
+  Submitted to CVPR 2026
 - *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*
 
   Submitted to ICLR 2026
+- *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*
+
+  **Wanke Xia**🥇, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
+
+  AAAI 2026 Workshop
 - *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*
 
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang, Bo Lv, Xunwen Xiang.
