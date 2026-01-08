@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master student at SIGS, THU, advised by Prof. Wenming Yang. Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
+I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
 
-My research interests include Computer Vision, Multi-modal Large Language Models, etc. I am now actively looking for **internships and collaborations concerning MLLM**! Feel free to contact with me through email(morleyolsen at foxmail dot com)!
+My research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **internships and collaborations** in these fields! Feel free to contact with me through email(morleyolsen at foxmail dot com)!
 
 # 🔥 News
-- *2025.06*: 🎉🎉 Our HSSBench is released on ARXIV, check [here](https://arxiv.org/abs/2506.03922)!
+- *2024.09*: 🎉🎉 I am pre-admitted to THU as a master student!
 
 # 📝 Papers 
 - 🥇: equal contribution
@@ -41,12 +41,12 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang, Bo Lv, Xunwen Xiang.
 
-  CAIT 2025 (EI)
+  CAIT 2025 (EI, IEEE Conference)
 - *A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing*
 
   Zhiyu Yang, **Wanke Xia**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
-  Plants (JCR - Q1)
+  Plants (SCI - Q2, JCR - Q1)
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
