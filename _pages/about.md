@@ -23,6 +23,7 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
 # 🔥 News
 - *2026.01*: 🎉🎉 1 paper was accepted by ICLR!
+- *2025.12*: 🎉🎉 1 paper was accepted by AAAI Workshop!
 - *2024.09*: 🎉🎉 I am pre-admitted to THU as a master student!
 
 # 📝 Papers 
@@ -37,16 +38,6 @@ My research interests include Computer Vision, Multi-modal Large Language Models
   **Wanke Xia**🥇, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
 
   AAAI 2026 Workshop
-- *An Improved Pure Fully Connected Neural Network for Rice Grain Classification*
-
-  **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang, Bo Lv, Xunwen Xiang.
-
-  CAIT 2025 (EI, IEEE Conference)
-- *A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing*
-
-  Zhiyu Yang, **Wanke Xia**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
-
-  Plants (SCI - Q2)
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
