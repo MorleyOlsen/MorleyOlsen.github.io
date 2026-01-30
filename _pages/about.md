@@ -22,17 +22,17 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 My research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **internships and collaborations** in these fields! Feel free to contact with me through email(morleyolsen at foxmail dot com)!
 
 # 🔥 News
+- *2026.01*: 🎉🎉 1 paper was accepted by ICLR!
 - *2024.09*: 🎉🎉 I am pre-admitted to THU as a master student!
 
 # 📝 Papers 
 - 🥇: equal contribution
-- *EgoLCD: Egocentric Video Generation with Long Context Diffusion*
+- *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
 
-  Submitted to CVPR 2026
-- *HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models*
+  Zhaolu Kang, Junhao Gong, Jiaxu Yan, **Wanke Xia**, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, ZhiYuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li
 
-  Submitted to ICLR 2026
-- *An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice*
+  ICLR 2026
+- *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
 
   **Wanke Xia**🥇, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
 
@@ -46,7 +46,7 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 
   Zhiyu Yang, **Wanke Xia**, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
-  Plants (SCI - Q2, JCR - Q1)
+  Plants (SCI - Q2)
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
