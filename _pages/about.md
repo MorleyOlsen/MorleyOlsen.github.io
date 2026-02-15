@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I have received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Standing at the forefront of AI, I want to power up various industries, revolutionizing the way people live.
-
-My research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **internships and collaborations** in these fields! Feel free to contact with me through email(morleyolsen at foxmail dot com)!
+I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Now my research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **internships and collaborations** in these fields! Feel free to contact with me through email(morleyolsen at foxmail dot com)!
 
 # 🔥 News
 - *2026.01*: 🎉🎉 1 paper was accepted by ICLR!
@@ -27,17 +25,12 @@ My research interests include Computer Vision, Multi-modal Large Language Models
 - *2024.09*: 🎉🎉 I am pre-admitted to THU as a master student!
 
 # 📝 Papers 
-- 🥇: equal contribution
-- *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
+- **ICLR 2026**➡️*[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
 
-  Zhaolu Kang, Junhao Gong, Jiaxu Yan, **Wanke Xia**, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, ZhiYuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li
+  Zhaolu Kang, Junhao Gong, Jiaxu Yan, **Wanke Xia**, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, ZhiYuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li.
+- **AAAI 2026 Workshop**➡️ *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
 
-  ICLR 2026
-- *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
-
-  **Wanke Xia**🥇, Ruoxin Peng🥇, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
-
-  AAAI 2026 Workshop
+  **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
