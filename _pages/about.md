@@ -27,7 +27,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 # 📝 Papers 
 - **ICLR 2026**➡️ *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
 
-  Zhaolu Kang, Junhao Gong, Jiaxu Yan, **Wanke Xia**, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, ZhiYuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li.
+  Zhaolu Kang, Junhao Gong, Jiaxu Yan, **Wanke Xia**, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, Zhiyuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li.
 - **AAAI 2026 Workshop**➡️ *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
 
   **Wanke Xia**, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
