@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Now my research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **collaborations** in these fields! Feel free to contact with me through email(morleyolsen [AT] foxmail [DOT] com)!
+I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Now my research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **internships and collaborations** in these fields! Feel free to contact with me through email(morleyolsen [AT] foxmail [DOT] com)!
 
 # 🔥 News
 - *2026.01*: 🎉🎉 1 paper was accepted by ICLR!
@@ -46,5 +46,6 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 - *2021.09 - 2025.06*, B.E. in Computer Science and Technology, College of Information and Electrical Engineering, China Agricultural University. 
 
 # 💻 Internships
-- *2025.02 - 2025.03*, LLM Agent Group, **Easthome**, Beijing, China.
-- *2024.10 - 2025.02*, International Game Development Group, **Xiaomi**, Beijing, China.
+- *2026.04 - Future*, Central Research Institute at 2012 Lab, `Huawei`, Shenzhen, China.
+- *2025.02 - 2025.03*, LLM Agent Group, `Easthome`, Beijing, China.
+- *2024.10 - 2025.02*, International Game Development Group, `Xiaomi`, Beijing, China.
