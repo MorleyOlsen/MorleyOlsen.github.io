@@ -20,9 +20,18 @@ redirect_from:
 I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Now my research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **internships and collaborations** in these fields! Feel free to contact with me through email(morleyolsen [AT] foxmail [DOT] com)!
 
 # 🔥 News
-- *2026.01*: 🎉🎉 1 paper was accepted by ICLR!
-- *2025.12*: 🎉🎉 1 paper was accepted by AAAI Workshop!
+<div class="news-scroll" markdown="1">
+- *2026.04*: 🎈🎈 I joined Huawei as an intern!
+- *2026.03*: 🙌🙌 We released [VisBrowse-Bench](https://arxiv.org/abs/2603.16289) on arXiv!
+- *2026.02*: 🙌🙌 We released [DSFC-Net](https://arxiv.org/abs/2602.01278) on arXiv!
+- *2026.01*: 🎉🎉 1 paper was accepted by ICLR (CCF-N Conference)!
+- *2025.12*: 🙌🙌 We released [EgoLCD](https://arxiv.org/abs/2512.04515) on arXiv!
+- *2025.12*: 🎉🎉 1 paper was accepted by AAAI Workshop (CCF-A Conference Workshop)!
+- *2025.08*: 🎉🎉 1 paper was accepted by CAIT (EI, IEEE Conference)!
+- *2025.05*: 🎉🎉 1 paper was accepted by Plants (SCI, JCR-Q1 Journal)!
+- *2024.10*: 🎈🎈 I joined Xiaomi as an intern!
 - *2024.09*: 🎉🎉 I am pre-admitted to THU as a master student!
+</div>
 
 # 📝 Papers 
 - **ICLR 2026**➡️ *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
@@ -31,6 +40,12 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 - **AAAI 2026 Workshop**➡️ *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
 
   `Wanke Xia`, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
+- **CAIT 2025**➡️ *[An Improved Pure Fully Connected Neural Network for Rice Grain Classification](https://ieeexplore.ieee.org/abstract/document/11424698/)*
+
+  `Wanke Xia`, Bo Lv, Xunwen Xiang, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang.
+- **Plants**➡️ *[A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing](https://www.mdpi.com/2223-7747/14/10/1481)*
+
+  Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
