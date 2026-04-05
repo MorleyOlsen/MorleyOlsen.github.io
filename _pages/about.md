@@ -20,6 +20,13 @@ redirect_from:
 I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://scholar.google.com/citations?hl=en&user=vsE4nKcAAAAJ&view_op=list_works&sortby=pubdate). Prior to that, I received my bachelor's degree at CIEE, CAU. Previously, I was focusing on the interdisciplinary applications of both Agriculture and Artificial Intelligence. Now my research interests include Computer Vision, Multi-modal Large Language Models, Generative Models, etc. I am now actively looking for **internships and collaborations** in these fields! Feel free to contact with me through email(morleyolsen [AT] foxmail [DOT] com)!
 
 # 🔥 News
+<style>
+.news-scroll {
+  max-height: 220px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+</style>
 <div class="news-scroll" markdown="1">
 - *2026.04*: 🎈🎈 I joined Huawei as an intern!
 - *2026.03*: 🙌🙌 We released [VisBrowse-Bench](https://arxiv.org/abs/2603.16289) on arXiv!
