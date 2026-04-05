@@ -41,18 +41,26 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 </div>
 
 # 📝 Papers 
-- **ICLR 2026**➡️ *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
+<h3>Conference Papers</h3>
+- <img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square"> *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
 
   Zhaolu Kang, Junhao Gong, Jiaxu Yan, `Wanke Xia`, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, Zhiyuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li.
-- **AAAI 2026 Workshop**➡️ *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
+- <img src="https://img.shields.io/badge/AAAI(Workshop)-2026-blue?style=flat-square"> *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
 
   `Wanke Xia`, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
-- **CAIT 2025**➡️ *[An Improved Pure Fully Connected Neural Network for Rice Grain Classification](https://ieeexplore.ieee.org/abstract/document/11424698/)*
+- <img src="https://img.shields.io/badge/CAIT-2025-blue?style=flat-square"> *[An Improved Pure Fully Connected Neural Network for Rice Grain Classification](https://ieeexplore.ieee.org/abstract/document/11424698/)*
 
   `Wanke Xia`, Bo Lv, Xunwen Xiang, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang.
-- **Plants**➡️ *[A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing](https://www.mdpi.com/2223-7747/14/10/1481)*
+
+<h3>Jounral Papers</h3>
+- <img src="https://img.shields.io/badge/Plants-2025-green?style=flat-square"> *[A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing](https://www.mdpi.com/2223-7747/14/10/1481)*
 
   Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
+
+<h3>Preprints</h3>
+- <img src="https://img.shields.io/badge/arXiv-2603.16289-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
+- <img src="https://img.shields.io/badge/arXiv-2602.01278-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
+- <img src="https://img.shields.io/badge/arXiv-2512.04515-red?style=flat-square"> *[EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)*
 
 # 🎖 Honors
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
