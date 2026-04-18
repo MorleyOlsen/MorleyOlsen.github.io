@@ -58,6 +58,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
   Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
 <h3>Preprints</h3>
+- <img src="https://img.shields.io/badge/arXiv-2604.14158-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
 - <img src="https://img.shields.io/badge/arXiv-2603.16289-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 - <img src="https://img.shields.io/badge/arXiv-2602.01278-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
 - <img src="https://img.shields.io/badge/arXiv-2512.04515-red?style=flat-square"> *[EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)*
