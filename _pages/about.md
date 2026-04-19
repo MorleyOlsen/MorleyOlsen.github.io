@@ -28,6 +28,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.04*: 🙌🙌 We released [MemGround](https://arxiv.org/abs/2604.14158) on arXiv!
 - *2026.04*: 🎈🎈 I joined Huawei as an intern!
 - *2026.03*: 🙌🙌 We released [VisBrowse-Bench](https://arxiv.org/abs/2603.16289) on arXiv!
 - *2026.02*: 🙌🙌 We released [DSFC-Net](https://arxiv.org/abs/2602.01278) on arXiv!
