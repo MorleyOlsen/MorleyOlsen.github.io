@@ -48,7 +48,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
   Zhaolu Kang, Junhao Gong, Jiaxu Yan, `Wanke Xia`, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, Zhiyuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li.
 - <img src="https://img.shields.io/badge/AAAI(Workshop)-2026-blue?style=flat-square"> *[An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice](https://openreview.net/forum?id=l6HwDE5Qi5)*
 
-  `Wanke Xia🟰`, Ruoxin Peng🟰, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
+  `Wanke Xia▲`, Ruoxin Peng▲, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Yiting Zhao, Lili Yang.
 - <img src="https://img.shields.io/badge/CAIT-2025-blue?style=flat-square"> *[An Improved Pure Fully Connected Neural Network for Rice Grain Classification](https://ieeexplore.ieee.org/abstract/document/11424698/)*
 
   `Wanke Xia`, Bo Lv, Xunwen Xiang, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang.
@@ -61,7 +61,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 <h3>Preprints</h3>
 - <img src="https://img.shields.io/badge/arXiv-2604.14158-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
 
-  Yihang Ding🟰, `Wanke Xia🟰`, Yiting Zhao🟰, Jinbo Su, Jialiang Yang, Zhengbo Zhang, Ke Wang, Wenming Yang.
+  Yihang Ding▲, `Wanke Xia▲`, Yiting Zhao▲, Jinbo Su, Jialiang Yang, Zhengbo Zhang, Ke Wang, Wenming Yang.
 - <img src="https://img.shields.io/badge/arXiv-2603.16289-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 
   Zhengbo Zhang, Jinbo Su, Zhaowen Zhou, Changtao Miao, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, `Wanke Xia`, Yi-Fan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
