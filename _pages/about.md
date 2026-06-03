@@ -28,6 +28,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.05*: 🙌🙌 We released [AVBench](https://arxiv.org/abs/2605.24652) on arXiv!
 - *2026.04*: 🙌🙌 We released [MemGround](https://arxiv.org/abs/2604.14158) on arXiv!
 - *2026.04*: 🎈🎈 I joined Huawei as an intern!
 - *2026.03*: 🙌🙌 We released [VisBrowse-Bench](https://arxiv.org/abs/2603.16289) on arXiv!
@@ -61,6 +62,9 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 <h3>Preprints</h3>
 - <img src="https://img.shields.io/badge/arXiv-2604.14158-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
 
+  Jialiang Yang, Bin Xia, Ruihang Chu, Dingdong Wang, `Wanke Xia`, Zhun Mou, Tianyang Zhong, Yiting Zhao, Wenming Yang.
+- <img src="https://img.shields.io/badge/arXiv-2604.14158-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
+
   Yihang Ding▲, `Wanke Xia▲`, Yiting Zhao▲, Jinbo Su, Jialiang Yang, Zhengbo Zhang, Ke Wang, Wenming Yang.
 - <img src="https://img.shields.io/badge/arXiv-2603.16289-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 
@@ -73,6 +77,14 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
   Liuzhou Zhang, Jiarui Ye, Yuanlei Wang, Ming Zhong, Mingju Cao, `Wanke Xia`, Bowen Zeng, Zeyu Zhang, Hao Tang.
 
 # 🎖 Honors
+<style>
+.news-scroll {
+  max-height: 220px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+</style>
+<div class="news-scroll" markdown="1">
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
 - *2024.12*, National Scholarship.
 - *2024.10*, Lenovo Scholarship.
@@ -80,6 +92,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 - *2023.11*, Lenovo Scholarship.
 - *2022.12*, National Encouragement Scholarship.
 - *2021.12*, National Encouragement Scholarship.
+</div>
 
 # 📖 Educations
 - *2025.09 - 2028.06 (expected)*, M.S. in Electronic and Information Engineering, Shenzhen International Graduate School, Tsinghua University. 
