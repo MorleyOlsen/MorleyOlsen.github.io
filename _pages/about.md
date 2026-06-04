@@ -43,7 +43,11 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 </div>
 
 # 📝 Papers 
-▲: Equal contribution. <a href="https://scholar.google.com/citations?hl=en&user=hectR7oAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%hectR7oAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>
+▲: Equal contribution. <a href="https://scholar.google.com/citations?hl=en&user=hectR7oAAAAJ" target="_blank">
+  <img
+    src="https://img.shields.io/badge/dynamic/json?label=Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DhectR7oAAAAJ&logo=googlescholar&logoColor=white&labelColor=4285F4&color=4285F4&style=flat-square"
+    alt="Google Scholar Citations">
+</a>
 
 <h3>Conference Papers</h3>
 - <img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square"> *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
