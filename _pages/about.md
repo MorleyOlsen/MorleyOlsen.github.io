@@ -60,7 +60,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
   Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
 <h3>Preprints</h3>
-- <img src="https://img.shields.io/badge/arXiv-2604.14158-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
+- <img src="https://img.shields.io/badge/arXiv-2605.24652-red?style=flat-square"> *[AVBench: Human-Aligned and Automated Evaluation Benchmark for Audio-Video Generative Models](https://arxiv.org/abs/2605.24652)*
 
   Jialiang Yang, Bin Xia, Ruihang Chu, Dingdong Wang, `Wanke Xia`, Zhun Mou, Tianyang Zhong, Yiting Zhao, Wenming Yang.
 - <img src="https://img.shields.io/badge/arXiv-2604.14158-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
