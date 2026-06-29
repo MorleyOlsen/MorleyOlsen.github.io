@@ -33,11 +33,11 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 - *2026.04*: 🎈🎈 I joined Huawei as an intern!
 - *2026.03*: 🙌🙌 We released [VisBrowse-Bench](https://arxiv.org/abs/2603.16289) on arXiv!
 - *2026.02*: 🙌🙌 We released [DSFC-Net](https://arxiv.org/abs/2602.01278) on arXiv!
-- *2026.01*: 🎉🎉 1 paper was accepted by ICLR (CCF-N Conference)!
+- *2026.01*: 🎉🎉 1 paper was accepted by ICLR 2026 (CCF-A Conference)!
 - *2025.12*: 🙌🙌 We released [EgoLCD](https://arxiv.org/abs/2512.04515) on arXiv!
-- *2025.12*: 🎉🎉 1 paper was accepted by AAAI Workshop (CCF-A Conference Workshop)!
-- *2025.08*: 🎉🎉 1 paper was accepted by CAIT (EI, IEEE Conference)!
-- *2025.05*: 🎉🎉 1 paper was accepted by Plants (SCI, JCR-Q1 Journal)!
+- *2025.12*: 🎉🎉 1 paper was accepted by AAAI 2026 Workshop (CCF-A Conference Workshop)!
+- *2025.08*: 🎉🎉 1 paper was accepted by CAIT 2025 (EI Conference)!
+- *2025.05*: 🎉🎉 1 paper was accepted by Plants (SCI JCR-Q1 Journal)!
 - *2024.10*: 🎈🎈 I joined Xiaomi as an intern!
 - *2024.09*: 🎉🎉 I am pre-admitted to THU as a master student!
 </div>
@@ -104,7 +104,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 - *2025.09 - 2028.06 (expected)*, M.S. in Electronic and Information Engineering, Shenzhen International Graduate School, Tsinghua University. 
 - *2021.09 - 2025.06*, B.E. in Computer Science and Technology, College of Information and Electrical Engineering, China Agricultural University. 
 
+<!-- - *2025.02 - 2025.03*, LLM Agent Group, `Easthome`, Beijing, China. -->
 # 💻 Internships
-- *2026.04 - Present*, Central Research Institute at 2012 Lab, `Huawei`, Shenzhen, China.
-- *2025.02 - 2025.03*, LLM Agent Group, `Easthome`, Beijing, China.
-- *2024.10 - 2025.02*, International Game Development Group, `Xiaomi`, Beijing, China.
+- *2026.04 - Present*, 2012 Laboratories, `Huawei`, Shenzhen, China.
+- *2024.10 - 2025.02*, International Internet Business Department, `Xiaomi`, Beijing, China.
