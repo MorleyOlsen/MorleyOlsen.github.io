@@ -28,6 +28,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.08*: 🙌🙌 We released [EffectLearner](https://arxiv.org/abs/2608.05565) on arXiv!
 - *2026.05*: 🙌🙌 We released [AVBench](https://arxiv.org/abs/2605.24652) on arXiv!
 - *2026.04*: 🙌🙌 We released [MemGround](https://arxiv.org/abs/2604.14158) on arXiv!
 - *2026.04*: 🎈🎈 I joined Huawei as an intern!
@@ -66,6 +67,9 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
   Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
 <h3>Preprints</h3>
+- <img src="https://img.shields.io/badge/arXiv-2605.24652-red?style=flat-square"> *[EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal](https://arxiv.org/abs/2608.05565)*
+
+  Feier Wu▲, `Wanke Xia▲`, Xu He▲, Zilang Zhou, Si Chen, Dongxia Liu, Liyang Chen, Qimeng Wu, Zhengbo Zhang, Wenming Yang, Zhiyong Wu.
 - <img src="https://img.shields.io/badge/arXiv-2605.24652-red?style=flat-square"> *[AVBench: Human-Aligned and Automated Evaluation Benchmark for Audio-Video Generative Models](https://arxiv.org/abs/2605.24652)*
 
   Jialiang Yang, Bin Xia, Ruihang Chu, Dingdong Wang, `Wanke Xia`, Zhun Mou, Tianyang Zhong, Yiting Zhao, Wenming Yang.
@@ -106,5 +110,5 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 
 <!-- - *2025.02 - 2025.03*, LLM Agent Group, `Easthome`, Beijing, China. -->
 # 💻 Internships
-- *2026.04 - Present*, 2012 Laboratories, `Huawei`, Shenzhen, China.
+- *2026.04 - 2025.08*, 2012 Laboratories, `Huawei`, Shenzhen, China.
 - *2024.10 - 2025.02*, International Internet Business Department, `Xiaomi`, Beijing, China.
