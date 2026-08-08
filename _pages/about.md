@@ -67,22 +67,22 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
   Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
 <h3>Preprints</h3>
-- <img src="https://img.shields.io/badge/arXiv-2605.24652-red?style=flat-square"> *[EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal](https://arxiv.org/abs/2608.05565)*
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal](https://arxiv.org/abs/2608.05565)*
 
   Feier Wu▲, `Wanke Xia▲`, Xu He▲, Zilang Zhou, Si Chen, Dongxia Liu, Liyang Chen, Qimeng Wu, Zhengbo Zhang, Wenming Yang, Zhiyong Wu.
-- <img src="https://img.shields.io/badge/arXiv-2605.24652-red?style=flat-square"> *[AVBench: Human-Aligned and Automated Evaluation Benchmark for Audio-Video Generative Models](https://arxiv.org/abs/2605.24652)*
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[AVBench: Human-Aligned and Automated Evaluation Benchmark for Audio-Video Generative Models](https://arxiv.org/abs/2605.24652)*
 
   Jialiang Yang, Bin Xia, Ruihang Chu, Dingdong Wang, `Wanke Xia`, Zhun Mou, Tianyang Zhong, Yiting Zhao, Wenming Yang.
-- <img src="https://img.shields.io/badge/arXiv-2604.14158-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
 
   Yihang Ding▲, `Wanke Xia▲`, Yiting Zhao▲, Jinbo Su, Jialiang Yang, Zhengbo Zhang, Ke Wang, Wenming Yang.
-- <img src="https://img.shields.io/badge/arXiv-2603.16289-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 
   Zhengbo Zhang, Jinbo Su, Zhaowen Zhou, Changtao Miao, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, `Wanke Xia`, Yi-Fan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
-- <img src="https://img.shields.io/badge/arXiv-2602.01278-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
 
   Zhengbo Zhang, Yihe Tian, `Wanke Xia`, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
-- <img src="https://img.shields.io/badge/arXiv-2512.04515-red?style=flat-square"> *[EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)*
+- <img src="https://img.shields.io/badge/arXiv-2025-red?style=flat-square"> *[EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)*
 
   Liuzhou Zhang, Jiarui Ye, Yuanlei Wang, Ming Zhong, Mingju Cao, `Wanke Xia`, Bowen Zeng, Zeyu Zhang, Hao Tang.
 
