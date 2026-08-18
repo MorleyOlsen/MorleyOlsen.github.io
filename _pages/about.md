@@ -116,5 +116,5 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 <!-- - *2025.02 - 2025.03*, LLM Agent Group, `Easthome`, Beijing, China. -->
 # 💻 Internships
 - *2026.08 - Present*, CTO, `Ant Group`, Hangzhou, China.
-- *2026.04 - 2025.08*, 2012 Laboratories, `Huawei`, Shenzhen, China.
+- *2026.04 - 2026.08*, 2012 Laboratories, `Huawei`, Shenzhen, China.
 - *2024.10 - 2025.02*, International Internet Business Department, `Xiaomi`, Beijing, China.
