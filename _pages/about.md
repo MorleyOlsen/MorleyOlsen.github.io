@@ -55,7 +55,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 <h3>Conference Papers</h3>
 - <img src="https://img.shields.io/badge/ICONIP-2026-blue?style=flat-square"> *[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394)*
 
-  
+  Xiao Guo, `Wanke Xia`, Lili Yang, Caicong Wu.
 - <img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square"> *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
 
   Zhaolu Kang, Junhao Gong, Jiaxu Yan, `Wanke Xia`, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, Zhiyuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li.
