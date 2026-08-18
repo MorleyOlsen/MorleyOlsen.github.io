@@ -28,6 +28,8 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.08*: 🎉🎉 1 paper was accepted by ICONIP 2026 (CCF-C Conference)!
+- *2026.08*: 🎈🎈 I joined Ant Group as an intern!
 - *2026.08*: 🙌🙌 We released [EffectLearner](https://arxiv.org/abs/2608.05565) on arXiv!
 - *2026.05*: 🙌🙌 We released [AVBench](https://arxiv.org/abs/2605.24652) on arXiv!
 - *2026.04*: 🙌🙌 We released [MemGround](https://arxiv.org/abs/2604.14158) on arXiv!
@@ -51,6 +53,9 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 </a>
 
 <h3>Conference Papers</h3>
+- <img src="https://img.shields.io/badge/ICONIP-2026-blue?style=flat-square"> *[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394)*
+
+  
 - <img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square"> *[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://openreview.net/forum?id=iQsKotob31)*
 
   Zhaolu Kang, Junhao Gong, Jiaxu Yan, `Wanke Xia`, Yian Wang, Zhuo Cheng, Wenhao Cao, Ziwen Wang, Zhiyuan Feng, Huaxuan Ding, Siqi He, Shannan Yan, Xiaomin He, Junzhe Chen, Chaoya Jiang, Wei Ye, Kaidong Yu, Xuelong Li.
@@ -110,5 +115,6 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 
 <!-- - *2025.02 - 2025.03*, LLM Agent Group, `Easthome`, Beijing, China. -->
 # 💻 Internships
+- *2026.08 - Present*, CTO, `Ant Group`, Hangzhou, China.
 - *2026.04 - 2025.08*, 2012 Laboratories, `Huawei`, Shenzhen, China.
 - *2024.10 - 2025.02*, International Internet Business Department, `Xiaomi`, Beijing, China.
