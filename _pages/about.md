@@ -28,6 +28,7 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.09*: 🎉🎉 1 paper was accepted by EMNLP 2026 Workshop (CCF-B Conference Workshop)!
 - *2026.08*: 🎉🎉 1 paper was accepted by ICONIP 2026 (CCF-C Conference)!
 - *2026.08*: 🎈🎈 I joined Ant Group as an intern!
 - *2026.08*: 🙌🙌 We released [EffectLearner](https://arxiv.org/abs/2608.05565) on arXiv!
@@ -53,6 +54,9 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 </a>
 
 <h3>Conference Papers</h3>
+- <img src="https://img.shields.io/badge/EMNLP(Workshop)-2026-blue?style=flat-square"> *[MemGround: Evaluating Memory Behavior of Large Language Models in Long-Horizon Gamified Scenarios](https://openreview.net/forum?id=nWU9cZhrgc)*
+
+  Yiting Zhao▲, `Wanke Xia▲`, Yihang Ding▲, Jinbo Su, Jialiang Yang, Zhengbo Zhang, Ke Wang, Wenming Yang.
 - <img src="https://img.shields.io/badge/ICONIP-2026-blue?style=flat-square"> *[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394)*
 
   Xiao Guo, `Wanke Xia`, Lili Yang, Caicong Wu.
@@ -78,9 +82,6 @@ I'm a master student at SIGS, THU, advised by Prof. [Wenming Yang](https://schol
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[AVBench: Human-Aligned and Automated Evaluation Benchmark for Audio-Video Generative Models](https://arxiv.org/abs/2605.24652)*
 
   Jialiang Yang, Bin Xia, Ruihang Chu, Dingdong Wang, `Wanke Xia`, Zhun Mou, Tianyang Zhong, Yiting Zhao, Wenming Yang.
-- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios](https://arxiv.org/abs/2604.14158)*
-
-  Yihang Ding▲, `Wanke Xia▲`, Yiting Zhao▲, Jinbo Su, Jialiang Yang, Zhengbo Zhang, Ke Wang, Wenming Yang.
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 
   Zhengbo Zhang, Jinbo Su, Zhaowen Zhou, Changtao Miao, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, `Wanke Xia`, Yi-Fan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
