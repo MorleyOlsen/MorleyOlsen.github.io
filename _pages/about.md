@@ -28,6 +28,8 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.10*: 🙌🙌 We released [UP-MOPD](https://arxiv.org/abs/2610.08398) on arXiv!
+- *2026.10*: 🙌🙌 We released [Trim-ReID](https://arxiv.org/abs/2610.04361) on arXiv!
 - *2026.09*: 🎉🎉 1 paper was accepted by EMNLP 2026 Workshop (CCF-B Conference Workshop)!
 - *2026.08*: 🎉🎉 1 paper was accepted by ICONIP 2026 (CCF-C Conference)!
 - *2026.08*: 🎈🎈 I joined Ant Group as an intern!
@@ -76,6 +78,12 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
   Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
 
 <h3>Preprints</h3>
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[UP-MOPD: Update Projection in Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2610.08398)*
+
+  Taojie Zhu, Jing Jin, Yuan Xia, Chenyang Ding, Qunshan He, `Wanke Xia`, Tao Sun, Yan Chen, Jian Wang, Jinjie Gu, Tao Feng.
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[TRIM-ReID: Duplication-Aware Token Reduction and Modality-Aligned Interaction for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2610.04361)*
+
+  `Wanke Xia▲`, Ruiding Zhu▲, Xingguo Xu, Zhengbo Zhang, Dongxia Liu, Yuan Jin, Taojie Zhu, Yiting Zhao, Yihang Ding.
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal](https://arxiv.org/abs/2608.05565)*
 
   Feier Wu▲, `Wanke Xia▲`, Xu He▲, Zilang Zhou, Si Chen, Dongxia Liu, Liyang Chen, Qimeng Wu, Zhengbo Zhang, Wenming Yang, Zhiyong Wu.
@@ -116,6 +124,6 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
 
 <!-- - *2025.02 - 2025.03*, LLM Agent Group, `Easthome`, Beijing, China. -->
 # 💻 Internships
-- *2026.08 - Present*, CTO, `Ant Group`, Hangzhou, China.
-- *2026.04 - 2026.08*, 2012 Laboratories, `Huawei`, Shenzhen, China.
+- *2026.08 - Present*, CTO (Ling Foundation Model), `Ant Group`, Hangzhou, China.
+- *2026.04 - 2026.08*, 2012 Laboratories (Pangu Foundation Model), `Huawei`, Shenzhen, China.
 - *2024.10 - 2025.02*, International Internet Business Department, `Xiaomi`, Beijing, China.
