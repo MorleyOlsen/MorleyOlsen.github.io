@@ -98,7 +98,7 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
   Zhengbo Zhang, Yihe Tian, `Wanke Xia`, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
 - <img src="https://img.shields.io/badge/arXiv-2025-red?style=flat-square"> *[EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)*
 
-  Liuzhou Zhang, Jiarui Ye, Yuanlei Wang, Ming Zhong, Mingju Cao, `Wanke Xia`, Bowen Zeng, Zeyu Zhang, Hao Tang.
+  Liuzhou Zhang, Jiarui Ye, Yuanlei Wang, Ming Zhong, Mingju Gao, `Wanke Xia`, Bowen Zeng, Zeyu Zhang, Hao Tang.
 
 # 🎖 Honors
 <style>
@@ -109,6 +109,7 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.10*, Second-Class Comprehensive Merit Scholarship (SIGS).
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
 - *2024.12*, National Scholarship.
 - *2024.10*, Lenovo Scholarship.
