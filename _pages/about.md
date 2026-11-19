@@ -28,6 +28,7 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
 }
 </style>
 <div class="news-scroll" markdown="1">
+- *2026.11*: 🎉🎉 1 paper was accepted by Expert Systems With Applications (SCI JCR-Q1 Journal)!
 - *2026.10*: 🙌🙌 We released [UP-MOPD](https://arxiv.org/abs/2610.08398) on arXiv!
 - *2026.10*: 🙌🙌 We released [Trim-ReID](https://arxiv.org/abs/2610.04361) on arXiv!
 - *2026.09*: 🎉🎉 1 paper was accepted by EMNLP 2026 Workshop (CCF-B Conference Workshop)!
@@ -38,7 +39,6 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
 - *2026.04*: 🙌🙌 We released [MemGround](https://arxiv.org/abs/2604.14158) on arXiv!
 - *2026.04*: 🎈🎈 I joined Huawei as an intern!
 - *2026.03*: 🙌🙌 We released [VisBrowse-Bench](https://arxiv.org/abs/2603.16289) on arXiv!
-- *2026.02*: 🙌🙌 We released [DSFC-Net](https://arxiv.org/abs/2602.01278) on arXiv!
 - *2026.01*: 🎉🎉 1 paper was accepted by ICLR 2026 (CCF-A Conference)!
 - *2025.12*: 🙌🙌 We released [EgoLCD](https://arxiv.org/abs/2512.04515) on arXiv!
 - *2025.12*: 🎉🎉 1 paper was accepted by AAAI 2026 Workshop (CCF-A Conference Workshop)!
@@ -73,9 +73,13 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
   `Wanke Xia`, Bo Lv, Xunwen Xiang, Ruoxin Peng, Haoqi Chu, Xinlei Zhu, Zhiyu Yang, Lili Yang.
 
 <h3>Jounral Papers</h3>
+- <img src="https://img.shields.io/badge/ESWA-2026-green?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
+
+  Zhengbo Zhang, Yihe Tian, `Wanke Xia`, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
 - <img src="https://img.shields.io/badge/Plants-2025-green?style=flat-square"> *[A Comprehensive Review of Deep Learning Applications in Cotton Industry: From Field Monitoring to Smart Processing](https://www.mdpi.com/2223-7747/14/10/1481)*
 
   Zhiyu Yang, `Wanke Xia`, Haoqi Chu, Wenhao Su, Ruifeng Wang, Haihua Wang.
+
 
 <h3>Preprints</h3>
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[UP-MOPD: Update Projection in Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2610.08398)*
@@ -93,9 +97,6 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 
   Zhengbo Zhang, Jinbo Su, Zhaowen Zhou, Changtao Miao, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, `Wanke Xia`, Yi-Fan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
-- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
-
-  Zhengbo Zhang, Yihe Tian, `Wanke Xia`, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
 - <img src="https://img.shields.io/badge/arXiv-2025-red?style=flat-square"> *[EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)*
 
   Liuzhou Zhang, Jiarui Ye, Yuanlei Wang, Ming Zhong, Mingju Gao, `Wanke Xia`, Bowen Zeng, Zeyu Zhang, Hao Tang.
