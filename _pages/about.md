@@ -96,7 +96,7 @@ I'm a master student at SIGS, THU. Prior to that, I received my bachelor's degre
   Jialiang Yang, Bin Xia, Ruihang Chu, Dingdong Wang, `Wanke Xia`, Zhun Mou, Tianyang Zhong, Yiting Zhao, Wenming Yang.
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 
-  Zhengbo Zhang, Jinbo Su, Zhaowen Zhou, Changtao Miao, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, `Wanke Xia`, Yi-Fan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
+  Zhengbo Zhang, Jinbo Su, Zhaowen Zhou, Changtao Miao, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, `Wanke Xia`, Yifan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
 - <img src="https://img.shields.io/badge/arXiv-2025-red?style=flat-square"> *[EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)*
 
   Liuzhou Zhang, Jiarui Ye, Yuanlei Wang, Ming Zhong, Mingju Gao, `Wanke Xia`, Bowen Zeng, Zeyu Zhang, Hao Tang.
